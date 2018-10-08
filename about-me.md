@@ -3,7 +3,7 @@ layout: default
 ---
 # Brief Bio
 
-Matthew Thomas Miller, PhD. is Assistant Professor of Persian Literature and Digital Humanities at [Roshan Institute for Persian Studies at the University of Maryland, College Park](http://sllc.umd.edu/persian). He also serves as the Associate Director of the [Roshan Initiative in Persian Digital Humanities (PersDig@UMD)](http://persdig.umd.edu/) and as the co-PI for the multi-institutional [Open Islamicate Texts Initiative (OpenITI)](http://iti-corpus.github.io/) and the [Persian Manuscript Initiative (PMI)](http://www.persianmanuscript.org/). His research focuses on medieval Sufi literature, the history of sexuality and the body, and digital humanities. He currently is working on a book project, entitled *Embodying the Beloved: Embodiment and Mystical Modes of Meaning Creation in Medieval Persian Sufi Literature,* and a number of articles on computational or “distant reading” approaches to Persian literature and carnivalesque Sufi poetry. 
+Matthew Thomas Miller, PhD. is Assistant Professor of Persian Literature and Digital Humanities at [Roshan Institute for Persian Studies at the University of Maryland, College Park](http://sllc.umd.edu/persian). He also serves as the Associate Director of the [Roshan Initiative in Persian Digital Humanities (PersDig@UMD)](http://persdig.umd.edu/) and as the co-PI for the multi-institutional [Open Islamicate Texts Initiative (OpenITI)](http://iti-corpus.github.io/) and the [Persian Manuscript Initiative (PMI)](http://www.persianmanuscript.org/). His research focuses on medieval Sufi literature, the history of sexuality and the body, and digital humanities. He currently is working on a book project, entitled *Embodying the Beloved: Embodiment and Mystical Modes of Meaning Creation in Medieval Persian Sufi Literature,* and a number of articles on carnivalesque Sufi poetry and on computational or “distant reading” approaches to Persian literature. 
 
 # Education
 
@@ -30,8 +30,8 @@ https://doi.org/10.1017/S0020743817000964)
 * (with Sarah Bowen Savant). "“Tell Me Something I Don’t Know!”: The Place and Politics of Digital Methods in the (Islamicate) Humanities." *International Journal of Middle East Studies* 50 (2017): 135-139. doi: [
 https://doi.org/10.1017/S0020743817001027](
 https://doi.org/10.1017/S0020743817001027)
-* “Fakhr al-Dīn ‘Irāqī: Poet and Mystic.” In *Religious and Mystical Literature (Volume VI of A History of Persian Literature Series)*, eds. Fatemeh Keshavarz, Ahmet T. Karamustafa, and Ehsan Yarshater. New York: I.B. Tauris, Forthcoming 2018.    
-* (with Bridget Almas, Emad Khazraee, and Joshua Westgard). "Manuscript Study in Digital Spaces: The State of the Field and New Ways Forward." *Digital Humanities Quarterly* TBD.
+* “Fakhr al-Dīn ‘Irāqī: Poet and Mystic.” In *Religious and Mystical Literature (Volume VI of A History of Persian Literature Series)*, eds. Fatemeh Keshavarz, Ahmet T. Karamustafa, and Ehsan Yarshater. New York: I.B. Tauris, Forthcoming 2019.    
+* (with Bridget Almas, Emad Khazraee, and Joshua Westgard). "Manuscript Study in Digital Spaces: The State of the Field and New Ways Forward." *Digital Humanities Quarterly* 12/2 (2018). [Available here](http://www.digitalhumanities.org/dhq/vol/12/2/000374/000374.html).
 
 
 # Public Intellectual Writing
@@ -49,3 +49,9 @@ https://doi.org/10.1017/S0020743817001027)
 * Dissertation Fellowship, Graduate School of Arts & Sciences, Washington University (2013-2014)   
 * Roshan Cultural Heritage Institute Fellowship for Excellence in Persian Studies (2012-2013)   
 * Mellon-Sawyer Graduate Fellowship (2011-2012)     
+
+# Service to Profession      
+
+* Member, [ALTO (Analyzed Layout and Text Object)](https://www.loc.gov/standards/alto/) International Editorial Board for OCR standards.      
+* Member, [vHMML](https://www.vhmml.org/) Board of Advisors, Hill Museum and Manuscript Library (HMML)      
+* Member, advisory board for the joint College of Arts and Humanities/Maryland Institute for Technology and Humanities [Graduate Certificate in Digital Studies in the Arts and Humanities (DSAH)](http://dsah.umd.edu/)     
