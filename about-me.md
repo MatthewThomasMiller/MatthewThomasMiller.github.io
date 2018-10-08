@@ -52,6 +52,6 @@ https://doi.org/10.1017/S0020743817001027)
 
 # Service to Profession      
 
-* Member, [ALTO (Analyzed Layout and Text Object)](https://www.loc.gov/standards/alto/) International Editorial Board for OCR standards.      
+* Member, [ALTO (Analyzed Layout and Text Object)](https://www.loc.gov/standards/alto/) International Editorial Board for OCR standards      
 * Member, [vHMML](https://www.vhmml.org/) Board of Advisors, Hill Museum and Manuscript Library (HMML)      
 * Member, advisory board for the joint College of Arts and Humanities/Maryland Institute for Technology and Humanities [Graduate Certificate in Digital Studies in the Arts and Humanities (DSAH)](http://dsah.umd.edu/)     
