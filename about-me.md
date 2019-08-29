@@ -37,7 +37,6 @@ https://doi.org/10.1017/S0020743817001027)
 * (with Ali Khan Mahmudabad and Columba Stewart). "The Raja of Mahmudabad Palace Library Project." *Shi'i Studies Review* 3 (2019): 271-279.     
 * (fourth author, with Maxim Romanov, Masoumeh Seydi, and Sarah Savant), "Open Islamicate Texts Initiative: a Machine-Readable Corpus of Texts Produced the Premodern Islamicate World." *DH2019* (Utrecht University 9-12 July 2019). ( Considered peer review publication by relevant academic organizations.)    
 * (third author, with Benjamin Kiessling and Daniel Stökl Ben Ezra). "BADAM: A Public Dataset for Baseline Detection in Arabic-script Manuscripts." *HIP 2019: 5th International Workshop on Historical Document Imaging and Processing* (October 20th-21st, 2019).* (Considered peer review publication by relevant academic organizations.)     
-* (with Bridget Almas, Emad Khazraee, and Joshua Westgard). "Manuscript Study in Digital Spaces: The State of the Field and New Ways Forward." *Digital Humanities Quarterly* 12/2 (2018). [Available here](http://www.digitalhumanities.org/dhq/vol/12/2/000374/000374.html).
 
 # Public Intellectual Writing
 
@@ -45,7 +44,7 @@ https://doi.org/10.1017/S0020743817001027)
 
 # Honors, Awards, and Grants (Selected)
 
-* Grant ($800,000) from [The Andrew W. Mellon Foundation](https://mellon.org/) [The Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project (OpenITI AOCP)](https://medium.com/@openiti/openiti-aocp-9802865a6586) (2019)          
+* Grant ($800,000) from [The Andrew W. Mellon Foundation](https://mellon.org/) for [The Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project (OpenITI AOCP)](https://medium.com/@openiti/openiti-aocp-9802865a6586) (2019)          
 * Ehsan Yarshater Fellowship in Iranian and Persian Studies, Yale University (2017-2018) (declined)    
 * Collection Care and Emergency Response Grant (£5,000), Islamic Manuscript Association (2017) (for PMI project in the Raja of Mahmudabad Palace Library)    
 * DRIF Conference Grant for "Manuscripts in the 21st Century" workshop   
