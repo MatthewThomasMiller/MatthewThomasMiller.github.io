@@ -33,7 +33,7 @@ https://doi.org/10.1017/S0020743817001027)
 * “Fakhr al-Dīn ‘Irāqī: Poet and Mystic.” In *Religious and Mystical Literature (Volume VI of A History of Persian Literature Series)*, eds. Fatemeh Keshavarz, Ahmet T. Karamustafa, and Ehsan Yarshater. New York: I.B. Tauris, Forthcoming 2019.    
 * (with Bridget Almas, Emad Khazraee, and Joshua Westgard). "Manuscript Study in Digital Spaces: The State of the Field and New Ways Forward." *Digital Humanities Quarterly* 12/2 (2018). [Available here](http://www.digitalhumanities.org/dhq/vol/12/2/000374/000374.html).     
 * (with Ali Khan Mahmudabad and Columba Stewart). "The Raja of Mahmudabad Palace Library Project." *Shi'i Studies Review* 3 (2019): 271-279.     
-* (fourth author, with Maxim Romanov, Masoumeh Seydi, and Sarah Savant), "Open Islamicate Texts Initiative: a Machine-Readable Corpus of Texts Produced the Premodern Islamicate World." *DH2019* (Utrecht University 9-12 July 2019). ( Considered peer review publication by relevant academic organizations.)    
+* (fourth author, with Maxim Romanov, Masoumeh Seydi, and Sarah Savant), "Open Islamicate Texts Initiative: a Machine-Readable Corpus of Texts Produced the Premodern Islamicate World." *DH2019* (Utrecht University 9-12 July 2019). (Considered peer review publication by relevant academic organizations.)    
 * (third author, with Benjamin Kiessling and Daniel Stökl Ben Ezra). "BADAM: A Public Dataset for Baseline Detection in Arabic-script Manuscripts." *HIP 2019: 5th International Workshop on Historical Document Imaging and Processing* (October 20th-21st, 2019).* (Considered peer review publication by relevant academic organizations.)     
 
 # Public Intellectual Writing
