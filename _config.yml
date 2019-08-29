@@ -1,0 +1,43 @@
+# Site settings
+title: Matthew Thomas Miller ماتیو توماس میلر
+description: 'Assistant Professor of Persian Literature and Digital Humanities at Roshan Institute for Persian Studies, University of Maryland, College Park'
+url: 'http://matthewthomasmiller.com'
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Matthew Thomas Miller'
+  email: mtmiller@umd.edu
+  twitter_username: M_T_Miller
+  #facebook_username: joshgerdes
+  github_username:  matthewthomasmiller
+  linkedin_username:  matthew-thomas-miller-30a36995
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
