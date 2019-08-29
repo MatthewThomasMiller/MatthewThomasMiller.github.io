@@ -128,7 +128,11 @@
     <url>
       <loc>http://localhost:4000/about-me%2011.48.36%20AM/</loc>
       
+<<<<<<< HEAD
         <lastmod>2018-07-12T12:01:09-04:00</lastmod>
+=======
+        <lastmod>2018-07-12T13:58:21-04:00</lastmod>
+>>>>>>> 1d3d2e6898f77bc06ded3dc524d00ebdd6658466
       
       
         <changefreq>monthly</changefreq>
@@ -143,7 +147,11 @@
     <url>
       <loc>http://localhost:4000/about-me/</loc>
       
+<<<<<<< HEAD
         <lastmod>2018-07-12T12:01:09-04:00</lastmod>
+=======
+        <lastmod>2018-07-12T13:58:21-04:00</lastmod>
+>>>>>>> 1d3d2e6898f77bc06ded3dc524d00ebdd6658466
       
       
         <changefreq>monthly</changefreq>
@@ -160,7 +168,11 @@
     <url>
       <loc>http://localhost:4000/feed.xml</loc>
       
+<<<<<<< HEAD
         <lastmod>2018-07-12T12:01:09-04:00</lastmod>
+=======
+        <lastmod>2018-07-12T13:58:21-04:00</lastmod>
+>>>>>>> 1d3d2e6898f77bc06ded3dc524d00ebdd6658466
       
       
         <changefreq>monthly</changefreq>
@@ -175,7 +187,11 @@
     <url>
       <loc>http://localhost:4000/humans.txt</loc>
       
+<<<<<<< HEAD
         <lastmod>2018-07-12T12:01:09-04:00</lastmod>
+=======
+        <lastmod>2018-07-12T13:58:21-04:00</lastmod>
+>>>>>>> 1d3d2e6898f77bc06ded3dc524d00ebdd6658466
       
       
         <changefreq>monthly</changefreq>
@@ -194,7 +210,11 @@
     <url>
       <loc>http://localhost:4000/css/main.css</loc>
       
+<<<<<<< HEAD
         <lastmod>2018-07-12T12:01:09-04:00</lastmod>
+=======
+        <lastmod>2018-07-12T13:58:21-04:00</lastmod>
+>>>>>>> 1d3d2e6898f77bc06ded3dc524d00ebdd6658466
       
       
         <changefreq>monthly</changefreq>

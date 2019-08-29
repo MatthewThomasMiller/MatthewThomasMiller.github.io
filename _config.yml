@@ -1,5 +1,9 @@
 # Site settings
+<<<<<<< HEAD
 title: Matthew Thomas Miller ماتیو توماس میلر
+=======
+title: Matthew Thomas Miller
+>>>>>>> 1d3d2e6898f77bc06ded3dc524d00ebdd6658466
 description: 'Assistant Professor of Persian Literature and Digital Humanities at Roshan Institute for Persian Studies, University of Maryland, College Park'
 url: 'http://matthewthomasmiller.com'
 baseurl: ''
