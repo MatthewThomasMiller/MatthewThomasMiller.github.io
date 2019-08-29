@@ -14,15 +14,13 @@ Matthew Thomas Miller, PhD. is Assistant Professor of Persian Literature and Dig
 
 # Course Offerings
 
-
 * *Iranian Cinema* (Fall 2019)      
 * [*Sex, Love, and Desire in Persian Poetry* (Spring 2018)]({% post_url 2018-01-20-Course-Sex-Love-and-Desire-in-Persian-Poetry %})     
 * [*Sex, Gender, and Sexuality in the Islamic World* (Spring 2017, Fall 2018)]({% post_url 2017-01-20-Course-Sex-Gender-and-Sexuality-in-the-Islamic-World %})    
 * [*The Islamicate World 2.0: Studying Islamic Cultures through Computational Textual Analysis* (Fall 2016)]({% post_url 2016-08-15-Course-The-Islamicate-World-2 %})     
 * [*Introduction to Global Digital Humanities* (Spring 2016)]({% post_url 2016-01-20-Course-Introduction-to-Global-Digital-Humanities %})   
 * [*Introduction to Persian Literature in Translation* (Spring 2015, Fall 2017)]({% post_url 2015-01-20-Course-Introduction-to-Persian-Literature-in-Translation %})   
-* [*Lyrics of Mystical Love, East and West* (Fall 2014, Spring 2019)]({% post_url 2014-08-15-Course-Lyrics-of-Mystical-Love-East-and-West %})   
-* [*Lyrics of Mystical Love, East and West* (Fall 2014)]({% post_url 2014-08-15-Course-Lyrics-of-Mystical-Love-East-and-West %})   
+* [*Lyrics of Mystical Love, East and West* (Fall 2014, Spring 2019)]({% post_url 2014-08-15-Course-Lyrics-of-Mystical-Love-East-and-West %})     
 
 # Scholarly Publications  
 * (with Maxim G. Romanov, Sarah Bowen Savant, and Ben Kiessling). “Important New Developments in Arabographic Optical Character Recognition (OCR).” *Al-ʿUṣūr al-Wusṭā: The Journal of Middle East Medievalists* 25 (2017). [Available here](http://islamichistorycommons.org/mem/wp-content/uploads/sites/55/2017/11/UW-25-Savant-et-al.pdf).    
@@ -50,12 +48,8 @@ https://doi.org/10.1017/S0020743817001027)
 * Collection Care and Emergency Response Grant (£5,000), Islamic Manuscript Association (2017) (for PMI project in the Raja of Mahmudabad Palace Library)    
 * DRIF Conference Grant for "Manuscripts in the 21st Century" workshop   
 *  Global Classroom Initiatives Grant (2015) for development of the *Islamicate World 2.0: Studying Islamicate Cultures through Computation Textual Analysis* course ($12,000). More information on the course is available [here](http://islamicate-dh.github.io/IW2Course_2016/)   
-* Tier 1 University of Maryland Grant (2015) for Persian Digital Library project ($50,000)   
-* Roshan Cultural Heritage Institute Fellowship for Excellence in Persian Studies (2012-2013)       
-* Roshan Institute Research Fellowship, University of Maryland, College Park (2014-2016)   
-* Dissertation Fellowship, Graduate School of Arts & Sciences, Washington University (2013-2014)   
+* Tier 1 University of Maryland Grant (2015) for Persian Digital Library project ($50,000)    
 * Roshan Cultural Heritage Institute Fellowship for Excellence in Persian Studies (2012-2013)   
-* Mellon-Sawyer Graduate Fellowship (2011-2012)     
 
 # Service to Profession      
 
