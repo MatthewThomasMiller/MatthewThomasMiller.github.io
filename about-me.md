@@ -34,7 +34,7 @@ https://doi.org/10.1017/S0020743817000964)
 * (with Sarah Bowen Savant). "“Tell Me Something I Don’t Know!”: The Place and Politics of Digital Methods in the (Islamicate) Humanities." *International Journal of Middle East Studies* 50 (2017): 135-139. doi: [
 https://doi.org/10.1017/S0020743817001027](
 https://doi.org/10.1017/S0020743817001027)           
-* (with Maxim G. Romanov, Sarah Bowen Savant, and Ben Kiessling). “Important New Developments in Arabographic Optical Character Recognition (OCR).” *Al-ʿUṣūr al-Wusṭā: The Journal of Middle East Medievalists* 25 (2017). Available [here](http://islamichistorycommons.org/mem/wp-content/uploads/sites/55/2017/11/UW-25-Savant-et-al.pdf).    
+* (with Maxim G. Romanov, Sarah Bowen Savant, and Ben Kiessling). “Important New Developments in Arabographic Optical Character Recognition (OCR).” *Al-ʿUṣūr al-Wusṭā: The Journal of Middle East Medievalists* 25 (2017). doi: [http://dx.doi.org/10.17613/M6TZ4R](http://dx.doi.org/10.17613/M6TZ4R)    
 
 # Public Intellectual Writing
 
