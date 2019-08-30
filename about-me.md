@@ -22,23 +22,23 @@ Matthew Thomas Miller, PhD. is Assistant Professor of Persian Literature and Dig
 * [*Lyrics of Mystical Love, East and West* (Fall 2014, Spring 2019)]({% post_url 2014-08-15-Course-Lyrics-of-Mystical-Love-East-and-West %})     
 
 # Scholarly Publications  
-* (with Maxim G. Romanov, Sarah Bowen Savant, and Ben Kiessling). “Important New Developments in Arabographic Optical Character Recognition (OCR).” *Al-ʿUṣūr al-Wusṭā: The Journal of Middle East Medievalists* 25 (2017). [Available here](http://islamichistorycommons.org/mem/wp-content/uploads/sites/55/2017/11/UW-25-Savant-et-al.pdf).    
-* "Embodying the Sufi Beloved: (Homo)eroticism, Embodiment, and the Construction of Desire in the Hagiographic Tradition of ‘Erâqi." *Journal of Middle Eastern Literatures* 21:1 (2018).
+* “Fakhr al-Dīn ‘Irāqī: Poet and Mystic.” In *Religious and Mystical Literature (Volume VI of A History of Persian Literature Series)*, eds. Fatemeh Keshavarz, Ahmet T. Karamustafa, and Ehsan Yarshater. New York: I.B. Tauris, Forthcoming 2020.
+* (fourth author, with Maxim Romanov, Masoumeh Seydi, and Sarah Savant), "Open Islamicate Texts Initiative: a Machine-Readable Corpus of Texts Produced the Premodern Islamicate World." *DH2019* (Utrecht University 9-12 July 2019). Available [here](https://dev.clariah.nl/files/dh2019/boa/0838.html). (Considered a peer-reviewed publication by relevant academic organizations.)    
+* (third author, with Benjamin Kiessling and Daniel Stökl Ben Ezra). "BADAM: A Public Dataset for Baseline Detection in Arabic-script Manuscripts." *HIP 2019: 5th International Workshop on Historical Document Imaging and Processing* (October 20th-21st, 2019).* (Considered a peer-reviewed publication by relevant academic organizations.)  
+* (with Ali Khan Mahmudabad and Columba Stewart). "The Raja of Mahmudabad Palace Library Project." *Shi'i Studies Review* 3 (2019): 271-279. doi: [https://doi.org/10.1163/24682470-12340046](https://doi.org/10.1163/24682470-12340046)    
+* "Embodying the Sufi Beloved: (Homo)eroticism, Embodiment, and the Construction of Desire in the Hagiographic Tradition of ‘Erâqi." *Journal of Middle Eastern Literatures* 21:1 (2018). doi: [https://doi.org/10.1080/1475262X.2018.1492134](https://doi.org/10.1080/1475262X.2018.1492134)     
+* (with Bridget Almas, Emad Khazraee, and Joshua Westgard). "Manuscript Study in Digital Spaces: The State of the Field and New Ways Forward." *Digital Humanities Quarterly* 12/2 (2018). Available [here](http://www.digitalhumanities.org/dhq/vol/12/2/000374/000374.html).
 * (with Maxim G. Romanov and Sarah Bowen Savant). "Digitizing the Textual Heritage of the Premodern Islamicate World: Principles and Plans." *International Journal of Middle East Studies* 50 (2017): 103-109. doi: [
 https://doi.org/10.1017/S0020743817000964](
 https://doi.org/10.1017/S0020743817000964)          
 * (with Sarah Bowen Savant). "“Tell Me Something I Don’t Know!”: The Place and Politics of Digital Methods in the (Islamicate) Humanities." *International Journal of Middle East Studies* 50 (2017): 135-139. doi: [
 https://doi.org/10.1017/S0020743817001027](
-https://doi.org/10.1017/S0020743817001027)
-* “Fakhr al-Dīn ‘Irāqī: Poet and Mystic.” In *Religious and Mystical Literature (Volume VI of A History of Persian Literature Series)*, eds. Fatemeh Keshavarz, Ahmet T. Karamustafa, and Ehsan Yarshater. New York: I.B. Tauris, Forthcoming 2019.    
-* (with Bridget Almas, Emad Khazraee, and Joshua Westgard). "Manuscript Study in Digital Spaces: The State of the Field and New Ways Forward." *Digital Humanities Quarterly* 12/2 (2018). [Available here](http://www.digitalhumanities.org/dhq/vol/12/2/000374/000374.html).     
-* (with Ali Khan Mahmudabad and Columba Stewart). "The Raja of Mahmudabad Palace Library Project." *Shi'i Studies Review* 3 (2019): 271-279.     
-* (fourth author, with Maxim Romanov, Masoumeh Seydi, and Sarah Savant), "Open Islamicate Texts Initiative: a Machine-Readable Corpus of Texts Produced the Premodern Islamicate World." *DH2019* (Utrecht University 9-12 July 2019). (Considered peer review publication by relevant academic organizations.)    
-* (third author, with Benjamin Kiessling and Daniel Stökl Ben Ezra). "BADAM: A Public Dataset for Baseline Detection in Arabic-script Manuscripts." *HIP 2019: 5th International Workshop on Historical Document Imaging and Processing* (October 20th-21st, 2019).* (Considered peer review publication by relevant academic organizations.)     
+https://doi.org/10.1017/S0020743817001027)           
+* (with Maxim G. Romanov, Sarah Bowen Savant, and Ben Kiessling). “Important New Developments in Arabographic Optical Character Recognition (OCR).” *Al-ʿUṣūr al-Wusṭā: The Journal of Middle East Medievalists* 25 (2017). Available [here](http://islamichistorycommons.org/mem/wp-content/uploads/sites/55/2017/11/UW-25-Savant-et-al.pdf).    
 
 # Public Intellectual Writing
 
- * “[The Kite Runner Critiqued: New Orientalism Goes to the Big Screen](http://www.commondreams.org/views/2008/01/05/kite-runner-critiqued-new-orientalism-goes-big-screen).” *CommonDreams* (Jan 2008). Available for download [here](https://www.academia.edu/6972322/The_Kite_Runner_Critiqued_New_Orientalism_ Goes_to_the_Big_Screen). Translated into Persian: “Ravâyati neo-orientâlisti az khâvarmiyâneh: naqdi digar bar ‘Bâdbâdak-bâz’.” Jahân-e Ketâb sâl-e sizdahom, shomâreh-ye 3 va 4 (Khordâd va Tir 1387). Translated by Ahmad Sayf. Available [here](http://www.ensani.ir/fa/content/236052/default.aspx).    
+* “[The Kite Runner Critiqued: New Orientalism Goes to the Big Screen](http://www.commondreams.org/views/2008/01/05/kite-runner-critiqued-new-orientalism-goes-big-screen).” *CommonDreams* (Jan 2008). Available for download [here](https://www.academia.edu/6972322/The_Kite_Runner_Critiqued_New_Orientalism_ Goes_to_the_Big_Screen). Translated into Persian: “Ravâyati neo-orientâlisti az khâvarmiyâneh: naqdi digar bar ‘Bâdbâdak-bâz’.” Jahân-e Ketâb sâl-e sizdahom, shomâreh-ye 3 va 4 (Khordâd va Tir 1387). Translated by Ahmad Sayf. [Available here](http://www.ensani.ir/fa/content/236052/default.aspx).    
 
 # Honors, Awards, and Grants (Selected)
 
