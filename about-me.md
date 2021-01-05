@@ -15,13 +15,13 @@ Matthew Thomas Miller, PhD. is Assistant Professor of Persian Literature and Dig
 
 # Honors, Awards, and Grants (Selected)
 
-* Level III Digital Humanities Advancement Grant ($324,571) from the National Endowment for the Humanities for the project entitled, ["Automatic Collation for Diversifying Corpora: Improving Handwritten Text Recognition (HTR) for Arabic-script Manuscripts"](https://twitter.com/M_T_Miller/status/1339315848373297158) (Principal Investigator) (2020).      
-* HathiTrust Research Center Advanced Collaborative Support Award for ["Detecting and Transcribing Arabographic Texts"](https://www.hathitrust.org/htrc-awards-three-acs-projects) (role: Co-Principal Investigator) (2020)      
-* Grant ($800,000) from The Andrew W. Mellon Foundation for ["The Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project (OpenITI AOCP)"](https://medium.com/@openiti/openiti-aocp-9802865a6586) (role: Principal Investigator) (2019)   
+* Level III Digital Humanities Advancement Grant ($324,571) from the National Endowment for the Humanities for the project entitled, ["Automatic Collation for Diversifying Corpora: Improving Handwritten Text Recognition (HTR) for Arabic-script Manuscripts"](https://twitter.com/M_T_Miller/status/1339315848373297158) (Role: Principal Investigator) (2020).      
+* HathiTrust Research Center Advanced Collaborative Support Award for ["Detecting and Transcribing Arabographic Texts"](https://www.hathitrust.org/htrc-awards-three-acs-projects) (Role: Co-Principal Investigator) (2020)      
+* Grant ($800,000) from The Andrew W. Mellon Foundation for ["The Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project (OpenITI AOCP)"](https://medium.com/@openiti/openiti-aocp-9802865a6586) (Role: Principal Investigator) (2019)   
 * Ehsan Yarshater Fellowship in Iranian and Persian Studies, Yale University (2017-2019) (declined)    
-* Collection Care and Emergency Response Grant (£5,000), Islamic Manuscript Association (2017) (for PMI project in the Raja of Mahmudabad Palace Library)    
+* Collection Care and Emergency Response Grant (£5,000), Islamic Manuscript Association (2017) (for PMI project in the Raja of Mahmudabad Palace Library) (Role: Principal Investigator)    
 * DRIF Conference Grant for "Manuscripts in the 21st Century" workshop (2016)   
-* Global Classroom Initiatives Grant (2015) for development of the *Islamicate World 2.0: Studying Islamicate Cultures through Computation Textual Analysis* course ($12,000). More information on the course is available [here](http://islamicate-dh.github.io/IW2Course_2016/)   
+* Global Classroom Initiatives Grant (2015) for development of the *Islamicate World 2.0: Studying Islamicate Cultures through Computation Textual Analysis* course ($12,000). More information on the course is available [here](http://islamicate-dh.github.io/IW2Course_2016/) (Role: Principal Investigator)      
 * Tier 1 University of Maryland Grant (2015) for Persian Digital Library project ($50,000)   
 * Roshan Cultural Heritage Institute Fellowship for Excellence in Persian Studies (2012-2013)   
 * Mellon-Sawyer Graduate Fellowship (2011-2012)    
@@ -45,7 +45,8 @@ Matthew Thomas Miller, PhD. is Assistant Professor of Persian Literature and Dig
 
 # Course Offerings
 
-* *Iranian Cinema* (Fall 2019, Fall 2020)[*Sex, Love, and Desire in Persian Poetry* (Spring 2018)]({% post_url 2018-01-20-Course-Sex-Love-and-Desire-in-Persian-Poetry %})         
+* *Iranian Cinema* (Fall 2019, Fall 2020)       
+* [*Sex, Love, and Desire in Persian Poetry* (Spring 2018)]({% post_url 2018-01-20-Course-Sex-Love-and-Desire-in-Persian-Poetry %})         
 * Instructor, *Lyrics of Mystical Love: Rumi, Song of Songs, and St. Teresa of Avila to Mirabai and Manhae* (Spring 2019)      
 * [*Sex, Gender, and Sexuality in the Islamic World* (Spring 2017, Fall 2018)]({% post_url 2017-01-20-Course-Sex-Gender-and-Sexuality-in-the-Islamic-World %})    
 * [*The Islamicate World 2.0: Studying Islamic Cultures through Computational Textual Analysis* (Fall 2016, Spring 2021)]({% post_url 2016-08-15-Course-The-Islamicate-World-2 %})     
