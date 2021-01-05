@@ -5,7 +5,7 @@ title: About Me
 
 # Brief Bio
 
-Matthew Thomas Miller, PhD. is Assistant Professor of Persian Literature and Digital Humanities at [Roshan Institute for Persian Studies at the University of Maryland, College Park](http://sllc.umd.edu/persian). He also serves as the Director of the [Roshan Initiative in Persian Digital Humanities (PersDig@UMD)](http://persdig.umd.edu/) and as the co-PI for the multi-institutional [Open Islamicate Texts Initiative (OpenITI)](http://iti-corpus.github.io/) and the [Persian Manuscript Initiative (PMI)](http://www.persianmanuscript.org/). He has received funding for these projects from The Andrew W. Mellon Foundation and The National Endowment for the Humanities. His research the focuses on medieval Sufi literature, the history of sexuality and the body, and digital humanities. He currently is working on a book project, entitled *Beautiful Bodies: Embodiment and Mystical Modes of Meaning Creation in Medieval Persian Sufi Literature,* and a number of articles on computational or “distant reading” approaches to Persian literature and carnivalesque Sufi poetry. 
+Matthew Thomas Miller, PhD. is Assistant Professor of Persian Literature and Digital Humanities at [Roshan Institute for Persian Studies at the University of Maryland, College Park](http://sllc.umd.edu/persian). He also serves as the Director of the [Roshan Initiative in Persian Digital Humanities (PersDig@UMD)](http://persdig.umd.edu/) and as the co-PI for the multi-institutional [Open Islamicate Texts Initiative (OpenITI)](https://www.openiti.org/) and the [Persian Manuscript Initiative (PMI)](http://www.persianmanuscript.org/). He has received funding for these projects from The Andrew W. Mellon Foundation and The National Endowment for the Humanities. His research the focuses on medieval Sufi literature, the history of sexuality and the body, and digital humanities. He currently is working on a book project, entitled *Beautiful Bodies: Embodiment and Mystical Modes of Meaning Creation in Medieval Persian Sufi Literature,* and a number of articles on computational or “distant reading” approaches to Persian literature and carnivalesque Sufi poetry. 
 
 # Education
 
@@ -31,10 +31,10 @@ Matthew Thomas Miller, PhD. is Assistant Professor of Persian Literature and Dig
 # Scholarly Publications  
      
 * (with Benjamin Kiessling, Gennady Kuran, and Kader Smail), "Advances and Limitations in Open Source Arabic-Script OCR: A Case Study." *Digital Studies/Le champ numérique*. Forthcoming 2021.    
-* (third author, with Benjamin Kiessling and Daniel Stökl Ben Ezra). "BADAM: A Public Dataset for Baseline Detection in Arabic-script Manuscripts." *HIP 2019: 5th International Workshop on Historical Document Imaging and Processing* (October 20th-21st, 2019).* doi: https://dl.acm.org/doi/pdf/10.1145/3352631.3352648 [^1]    
-* (fourth author, with Maxim Romanov, Masoumeh Seydi, and Sarah Savant), "Open Islamicate Texts Initiative: a Machine-Readable Corpus of Texts Produced the Premodern Islamicate World." *DH2019* (Utrecht University 9-12 July 2019).[^1] (Received the prize for the most "innovative and interdisciplinary research")
+* (third author, with Benjamin Kiessling and Daniel Stökl Ben Ezra). "BADAM: A Public Dataset for Baseline Detection in Arabic-script Manuscripts." *HIP 2019: 5th International Workshop on Historical Document Imaging and Processing* (October 20th-21st, 2019).* doi: [https://dl.acm.org/doi/pdf/10.1145/3352631.3352648](https://dl.acm.org/doi/pdf/10.1145/3352631.3352648) [^1]    
+* (fourth author, with Maxim Romanov, Masoumeh Seydi, and Sarah Savant), "Open Islamicate Texts Initiative: a Machine-Readable Corpus of Texts Produced the Premodern Islamicate World." *DH2019* (Utrecht University 9-12 July 2019).[^1] (Received the DH2019 prize for the most "innovative and interdisciplinary research")
 * "Embodying the Sufi Beloved: (Homo)eroticism, Embodiment, and the Construction of Desire in the Hagiographic Tradition of ‘Erâqi." *Journal of Middle Eastern Literatures* 21:1 (2018): 1-27.     
-* (with Bridget Almas, Emad Khazraee, and Joshua Westgard). "Manuscript Study in Digital Spaces: The State of the Field and New Ways Forward." *Digital Humanities Quarterly* 12/2 (2018). [Available here](http://www.digitalhumanities.org/dhq/vol/12/2/000374/000374.html).   
+* (with Bridget Almas, Emad Khazraee, and Joshua Westgard). "Manuscript Study in Digital Spaces: The State of the Field and New Ways Forward." *Digital Humanities Quarterly* 12/2 (2018). doi: [http://www.digitalhumanities.org/dhq/vol/12/2/000374/000374.html](http://www.digitalhumanities.org/dhq/vol/12/2/000374/000374.html).   
 * (with Maxim G. Romanov, Sarah Bowen Savant, and Ben Kiessling). “Important New Developments in Arabographic Optical Character Recognition (OCR).” *Al-ʿUṣūr al-Wusṭā: The Journal of Middle East Medievalists* 25 (2017). [Available here](https://ajs.hcommons.org/deposits/item/hc:16627/).
 
 [^1]: Considered a peer review publication by relevant academic organizations.
@@ -45,7 +45,7 @@ Matthew Thomas Miller, PhD. is Assistant Professor of Persian Literature and Dig
 
 # Course Offerings
 
-* *Iranian Cinema* (Fall 2019, Fall 2020)[*Sex, Love, and Desire in Persian Poetry* (Spring 2018)]({% post_url 2018-01-20-Course-Sex-Love-and-Desire-in-Persian-Poetry %})     
+* *Iranian Cinema* (Fall 2019, Fall 2020)[*Sex, Love, and Desire in Persian Poetry* (Spring 2018)]({% post_url 2018-01-20-Course-Sex-Love-and-Desire-in-Persian-Poetry %})         
 * Instructor, *Lyrics of Mystical Love: Rumi, Song of Songs, and St. Teresa of Avila to Mirabai and Manhae* (Spring 2019)      
 * [*Sex, Gender, and Sexuality in the Islamic World* (Spring 2017, Fall 2018)]({% post_url 2017-01-20-Course-Sex-Gender-and-Sexuality-in-the-Islamic-World %})    
 * [*The Islamicate World 2.0: Studying Islamic Cultures through Computational Textual Analysis* (Fall 2016, Spring 2021)]({% post_url 2016-08-15-Course-The-Islamicate-World-2 %})     
