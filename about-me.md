@@ -32,7 +32,7 @@ Matthew Thomas Miller, PhD. is Assistant Professor of Persian Literature and Dig
      
 * (with Benjamin Kiessling, Gennady Kuran, and Kader Smail), "Advances and Limitations in Open Source Arabic-Script OCR: A Case Study." *Digital Studies/Le champ numérique*. Forthcoming 2021.    
 * (third author, with Benjamin Kiessling and Daniel Stökl Ben Ezra). "BADAM: A Public Dataset for Baseline Detection in Arabic-script Manuscripts." *HIP 2019: 5th International Workshop on Historical Document Imaging and Processing* (October 20th-21st, 2019).* doi: [https://dl.acm.org/doi/pdf/10.1145/3352631.3352648](https://dl.acm.org/doi/pdf/10.1145/3352631.3352648) [^1]    
-* (fourth author, with Maxim Romanov, Masoumeh Seydi, and Sarah Savant), "Open Islamicate Texts Initiative: a Machine-Readable Corpus of Texts Produced the Premodern Islamicate World." *DH2019* (Utrecht University 9-12 July 2019).[^1] (Received the DH2019 prize for the most "innovative and interdisciplinary research")
+* (fourth author, with Maxim Romanov, Masoumeh Seydi, and Sarah Savant), "Open Islamicate Texts Initiative: a Machine-Readable Corpus of Texts Produced the Premodern Islamicate World." *DH2019* (Utrecht University 9-12 July 2019). (Received the DH2019 prize for the most "innovative and interdisciplinary research")[^1]
 * "Embodying the Sufi Beloved: (Homo)eroticism, Embodiment, and the Construction of Desire in the Hagiographic Tradition of ‘Erâqi." *Journal of Middle Eastern Literatures* 21:1 (2018): 1-27.     
 * (with Bridget Almas, Emad Khazraee, and Joshua Westgard). "Manuscript Study in Digital Spaces: The State of the Field and New Ways Forward." *Digital Humanities Quarterly* 12/2 (2018). doi: [http://www.digitalhumanities.org/dhq/vol/12/2/000374/000374.html](http://www.digitalhumanities.org/dhq/vol/12/2/000374/000374.html).   
 * (with Maxim G. Romanov, Sarah Bowen Savant, and Ben Kiessling). “Important New Developments in Arabographic Optical Character Recognition (OCR).” *Al-ʿUṣūr al-Wusṭā: The Journal of Middle East Medievalists* 25 (2017). [Available here](https://ajs.hcommons.org/deposits/item/hc:16627/).
@@ -41,7 +41,7 @@ Matthew Thomas Miller, PhD. is Assistant Professor of Persian Literature and Dig
 
 # Public Intellectual Writing
 
- * “[The Kite Runner Critiqued: New Orientalism Goes to the Big Screen](http://www.commondreams.org/views/2008/01/05/kite-runner-critiqued-new-orientalism-goes-big-screen).” *CommonDreams* (Jan 2008). Available for download [here](https://www.academia.edu/6972322/The_Kite_Runner_Critiqued_New_Orientalism_ Goes_to_the_Big_Screen). Translated into Persian: “Ravâyati neo-orientâlisti az khâvarmiyâneh: naqdi digar bar ‘Bâdbâdak-bâz’.” Jahân-e Ketâb sâl-e sizdahom, shomâreh-ye 3 va 4 (Khordâd va Tir 1387). Translated by Ahmad Sayf. Available [here](http://www.ensani.ir/fa/content/236052/default.aspx).     
+ * “[The Kite Runner Critiqued: New Orientalism Goes to the Big Screen](http://www.commondreams.org/views/2008/01/05/kite-runner-critiqued-new-orientalism-goes-big-screen).” *CommonDreams* (Jan 2008). Available for download [here](https://www.academia.edu/6972322/The_Kite_Runner_Critiqued_New_Orientalism_Goes_to_the_Big_Screen). Translated into Persian: “Ravâyati neo-orientâlisti az khâvarmiyâneh: naqdi digar bar ‘Bâdbâdak-bâz’.” Jahân-e Ketâb sâl-e sizdahom, shomâreh-ye 3 va 4 (Khordâd va Tir 1387). Translated by Ahmad Sayf. Available [here](http://www.ensani.ir/fa/content/236052/default.aspx).     
 
 # Course Offerings
 
