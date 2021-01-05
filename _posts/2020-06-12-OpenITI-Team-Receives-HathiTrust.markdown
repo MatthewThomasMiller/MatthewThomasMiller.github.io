@@ -12,4 +12,4 @@ For more information, see [the official announcement](https://www.hathitrust.org
 
 Other notable press coverage:
 
-[HathiTrust award goes to UMD researcher, team developing digital humanities software](httForps://www.lib.umd.edu/news/2020/10/hathitrust-research-award)
+[HathiTrust award goes to UMD researcher, team developing digital humanities software](https://www.lib.umd.edu/news/2020/10/hathitrust-research-award)
