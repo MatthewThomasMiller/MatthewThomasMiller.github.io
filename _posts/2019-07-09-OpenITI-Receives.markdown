@@ -1,5 +1,5 @@
 ---
-title:  "OpenITI Receives $800,000 Grant from the Mellon Foundation"
+title:  "OpenITI Receives $800,000 Grant from the Mellon Foundation for Persian and Arabic OCR"
 date:   2019-07-09
 categories: Grant
 tags: Arabic, Persian, OCR, Arabic OCR, Persian OCR, natural language processing, machine learning, artificial intelligence, digital humanities, Persian digital humanities, Arabic digital humanities
