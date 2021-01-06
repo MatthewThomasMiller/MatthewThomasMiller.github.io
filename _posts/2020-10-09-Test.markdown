@@ -1,8 +1,7 @@
 ---
-title:  "NEH Awards Grant for Advancing Persian and Arabic Manuscript HTR to Roshan Institute"
+title:  "NEH Awards Grant for Advancing Persian and Arabic Manuscript HTR to Roshan Institute at UMD"
 date:   2020-12-16
 categories: Grant
-description: The Roshan Initiative in Persian Digital Humanities is proud to announce that we have received a Level III Digital Humanities Advancement Grant in the amount of $324,571 from the National Endowment for the Humanities for our project entitled, Automatic Collation for Diversifying Corpora: Improving Handwritten Text Recognition (HTR) for Arabic-script Manuscripts.
 tags: test
 ---
 
