@@ -2,7 +2,7 @@
 title:  "NEH Awards Grant for Advancing Persian and Arabic Manuscript HTR to Roshan Institute at UMD"
 date:   2020-12-16
 categories: Grant
-tags: test
+tags: Arabic, Persian, OCR, Arabic OCR, Persian OCR, natural language processing, machine learning, artificial intelligence, digital humanities, Persian digital humanities, Arabic digital humanities, manuscripts, HTR
 ---
 
 
