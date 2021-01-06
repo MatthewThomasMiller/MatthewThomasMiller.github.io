@@ -1,5 +1,7 @@
 <head>
+  {% if site.google_analytics and jekyll.environment == 'production' %}
   {% include analytics.html %}
+  {% endif %}
   <meta name="google-site-verification" content="WrkTuRsgXlaPWPUOe1eJdCirnDYct2NgFEYx_pJ1-00" />
   <!-- Google Analytics -->
   <script>
