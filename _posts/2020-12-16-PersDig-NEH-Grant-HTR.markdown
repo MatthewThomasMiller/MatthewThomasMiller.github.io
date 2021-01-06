@@ -1,5 +1,5 @@
 ---
-title: "Roshan Institute Receives NEH Grant for Advancing Persian and Arabic Manuscript HTR"
+title: "Roshan Institute-UMD Receives NEH Grant for Advancing Persian and Arabic Manuscript HTR"
 date: 2020-12-16
 categories: Grant
 author: Matthew Thomas Miller
