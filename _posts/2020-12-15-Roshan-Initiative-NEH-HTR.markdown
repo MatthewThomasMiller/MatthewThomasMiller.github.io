@@ -1,5 +1,5 @@
 ---
-title:  "PersDig@UMD Receives NEH Grant for Persian and Arabic Manuscript HTR"
+title:  "PersDig@UMD Receives NEH Grant for Advancing Persian and Arabic Manuscript HTR"
 date:   2020-12-16
 categories: Grant
 description: The Roshan Initiative in Persian Digital Humanities (PersDig@UMD) is proud to announce that we have received a Level III Digital Humanities Advancement Grant in the amount of $324,571 from the National Endowment for the Humanities for our project entitled, "Automatic Collation for Diversifying Corpora: Improving Handwritten Text Recognition (HTR) for Arabic-script Manuscripts." Matthew Thomas Miller will serve as the Principal Investigator of this project, with David Smith serving as the co-Principal Investigator.
