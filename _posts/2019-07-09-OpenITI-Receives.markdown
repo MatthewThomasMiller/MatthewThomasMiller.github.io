@@ -1,7 +1,9 @@
 ---
 title:  "OpenITI Receives $800,000 Grant from the Mellon Foundation for Persian and Arabic OCR"
 date:   2019-07-09
+author: Matthew Thomas Miller
 categories: Grant
+description: In June 2019 The Andrew W. Mellon Foundation generously awarded the University of Maryland, College Park (UMD) a $800,000 grant for the Open Islamicate Texts Initiative’s Persian and Arabic Optical Character Recognition Project (OpenITI AOCP).
 tags: Arabic, Persian, OCR, Arabic OCR, Persian OCR, natural language processing, machine learning, artificial intelligence, digital humanities, Persian digital humanities, Arabic digital humanities
 ---
 ![CorpusBuilder Screenshot](/images/CB.jpg){:class="img-responsive"}

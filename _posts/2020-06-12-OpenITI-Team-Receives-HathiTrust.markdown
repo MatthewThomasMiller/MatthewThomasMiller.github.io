@@ -2,6 +2,7 @@
 title:  "OpenITI AOCP Team Receives a HathiTrust Research Center Advanced Collaborative Support Award"
 date:   2020-06-12
 categories: Grant
+description: The Open Islamicate Texts Initiative Advanced OCR Catalyst Project team is proud to announce that we have received a HathiTrust Research Center Advanced Collaborative Support Award for our project entitled, *Detecting and Transcribing Arabographic Texts*. Team member David Smith led this proposal, with Matthew Miller, Sarah Savant, and Maxim Romanov serving as co-Principal Investigators.
 tags: Arabic, Persian, OCR, Arabic OCR, Persian OCR, natural language processing, machine learning, artificial intelligence, digital humanities, Persian digital humanities, Arabic digital humanities
 ---
 ![HathiTrust](/images/hathitrust.jpg){:class="img-responsive"}
