@@ -1,0 +1,12 @@
+---
+title:  "Test"
+date:   2020-10-09
+categories: Grant
+description: test
+tags: test
+---
+
+
+*With generous funding from The Andrew W. Mellon Foundation, OpenITI AOCP will create a new digital text production pipeline for Persian and Arabic texts.*
+
+In June 2019 [The Andrew W. Mellon Foundation](https://mellon.org/) generously awarded the University of Maryland, College Park (UMD) a $800,000 grant for the Open Islamicate Texts Initiative’s Arabic-script Optical Character Recognition Project (OpenITI AOCP).
