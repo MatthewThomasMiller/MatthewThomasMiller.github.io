@@ -3,7 +3,7 @@ title: "Roshan Institute-UMD Receives NEH Grant for Advancing Persian and Arabic
 date: 2020-12-16
 categories: Grant
 author: Matthew Thomas Miller
-description: The Roshan Initiative in Persian Digital Humanities is proud to announce that we have received a Level III Digital Humanities Advancement Grant in the amount of $324,571 from the National Endowment for the Humanities for our project entitled, "Automatic Collation for Diversifying Corpora: Improving Handwritten Text Recognition (HTR) for Arabic-script Manuscripts."
+description: The Roshan Initiative in Persian Digital Humanities is proud to announce that we have received a Level III Digital Humanities Advancement Grant in the amount of $324,571 from the National Endowment for the Humanities for our project entitled, Automatic Collation for Diversifying Corpora: Improving Handwritten Text Recognition (HTR) for Arabic-script Manuscripts.
 tags: Arabic, Persian, OCR, Arabic OCR, Persian OCR, natural language processing, machine learning, artificial intelligence, digital humanities, Persian digital humanities, Arabic digital humanities, manuscripts, HTR
 ---
 ![NEH Logo](/images/NEH.jpg){:class="img-responsive"}
