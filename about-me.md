@@ -41,7 +41,7 @@ Matthew Thomas Miller, PhD. is Assistant Professor of Persian Literature and Dig
 
 # Public Intellectual Writing
 
- * “[The Kite Runner Critiqued: New Orientalism Goes to the Big Screen](http://www.commondreams.org/views/2008/01/05/kite-runner-critiqued-new-orientalism-goes-big-screen).” *CommonDreams* (Jan 2008). Available for download [here](https://hcommons.org/deposits/item/hc:16629/). Translated into Persian: “Ravâyati neo-orientâlisti az khâvarmiyâneh: naqdi digar bar ‘Bâdbâdak-bâz’.” Jahân-e Ketâb sâl-e sizdahom, shomâreh-ye 3 va 4 (Khordâd va Tir 1387). Translated by Ahmad Sayf. Available [here](https://hcommons.org/deposits/item/hc:16631/).     
+ * “[The Kite Runner Critiqued: New Orientalism Goes to the Big Screen](http://www.commondreams.org/views/2008/01/05/kite-runner-critiqued-new-orientalism-goes-big-screen).” *CommonDreams* (Jan 2008). Available for download [here](https://hcommons.org/deposits/item/hc:16629/). Translated into Persian: “Ravâyati neo-orientâlisti az khâvarmiyâneh: naqdi digar bar ‘Bâdbâdak-bâz’.” Jahân-e Ketâb sâl-e sizdahom, shomâreh-ye 3 va 4 (Khordâd va Tir 1387). Translated by Ahmad Sayf. Available [here](https://ajs.hcommons.org/deposits/item/hc:16631/).     
 
 # Course Offerings
 
