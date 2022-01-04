@@ -34,7 +34,7 @@ Matthew Thomas Miller, PhD. is Assistant Professor of Persian Literature and Dig
      
 * "The Poetics of the Sufi Carnival: The Rogue Lyrics (*Qalandariyyāt*) as Heterotopic Countergenre(s)." *Al-ʿUṣūr al-Wusṭā: The Journal of Middle East Medievalists* (Forthcoming 2022).       
 * "The Qalandar King: Early Development of the *Qalandariyyāt* and Saljuq Conceptions of Kingship in Amir Moʿezzi’s Panegyric for Sharafshāh Jaʿfari." *Iranian Studies* (Forthcoming 2022).                
-* (with Benajmin Kiessling, Gennady Kurin, and Kader Smail). “Advances and Limitations in Open Source Arabic-Script OCR: A Case Study,” *Digital Studies / Le champ numérique* 11:1 (2021). doi: https://doi.org/10.16995/dscn.8094    
+* (with Benajmin Kiessling, Gennady Kurin, and Kader Smail). “Advances and Limitations in Open Source Arabic-Script OCR: A Case Study,” *Digital Studies / Le champ numérique* 11:1 (2021). doi: [https://doi.org/10.16995/dscn.8094](https://doi.org/10.16995/dscn.8094)    
 * (third author, with Benjamin Kiessling and Daniel Stökl Ben Ezra). "BADAM: A Public Dataset for Baseline Detection in Arabic-script Manuscripts." *HIP 2019: 5th International Workshop on Historical Document Imaging and Processing* (October 20th-21st, 2019). doi: [https://dl.acm.org/doi/pdf/10.1145/3352631.3352648](https://dl.acm.org/doi/pdf/10.1145/3352631.3352648) [^1]    
 * (fourth author, with Maxim Romanov, Masoumeh Seydi, and Sarah Savant), "Open Islamicate Texts Initiative: a Machine-Readable Corpus of Texts Produced the Premodern Islamicate World." *DH2019* (Utrecht University 9-12 July 2019). doi: [https://dev.clariah.nl/files/dh2019/boa/0838.html](https://dev.clariah.nl/files/dh2019/boa/0838.html) (Received the DH2019 prize for the most "innovative and interdisciplinary research")[^1]    
 * (with Ali Khan Mahmudabad and Columba Stewart). "The Raja of Mahmudabad Palace Library Project." *Shi'i Studies Review* 3 (2019): 271-279. doi: [http://dx.doi.org/10.17613/ap4q-zw79](http://dx.doi.org/10.17613/ap4q-zw79)
@@ -62,7 +62,7 @@ https://doi.org/10.1017/S0020743817001027)
 
 # Public Intellectual Writing
 
- * "Sufi love poetry is in vogue, but few grasp its radical meaning." *Aeon Psyche*, October 13th, 2021. url: https://psyche.co/ideas/sufi-love-poetry-is-in-vogue-but-few-grasp-its-radical-meaning     
+ * "Sufi love poetry is in vogue, but few grasp its radical meaning." *Aeon Psyche*, October 13th, 2021. url: [https://psyche.co/ideas/sufi-love-poetry-is-in-vogue-but-few-grasp-its-radical-meaning](https://psyche.co/ideas/sufi-love-poetry-is-in-vogue-but-few-grasp-its-radical-meaning)     
  * “[The Kite Runner Critiqued: New Orientalism Goes to the Big Screen](http://www.commondreams.org/views/2008/01/05/kite-runner-critiqued-new-orientalism-goes-big-screen).” *CommonDreams* (Jan 2008). Available for download [here](http://dx.doi.org/10.17613/M6Q524). Translated into Persian: “Ravâyati neo-orientâlisti az khâvarmiyâneh: naqdi digar bar ‘Bâdbâdak-bâz’.” Jahân-e Ketâb sâl-e sizdahom, shomâreh-ye 3 va 4 (Khordâd va Tir 1387). Translated by Ahmad Sayf. Available [here](http://dx.doi.org/10.17613/M6KF99).     
 
 # Course Offerings
