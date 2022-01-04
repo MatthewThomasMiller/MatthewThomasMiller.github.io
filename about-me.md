@@ -5,7 +5,7 @@ title: About Me
 
 # Brief Bio
 
-Matthew Thomas Miller, PhD. is Assistant Professor of Persian Literature and Digital Humanities at [Roshan Institute for Persian Studies at the University of Maryland, College Park](http://sllc.umd.edu/persian) and and an affiliate of the [Maryland Institute for Technology in the Humanities](https://mith.umd.edu/people/). He also serves as the Director of the [Roshan Initiative in Persian Digital Humanities (PersDig@UMD)](http://persdig.umd.edu/) and as the co-PI for the multi-institutional [Open Islamicate Texts Initiative (OpenITI)](https://www.openiti.org/) and the [Persian Manuscript Initiative (PMI)](http://www.persianmanuscript.org/). He has received funding for these projects from [The Andrew W. Mellon Foundation](https://mellon.org/) and [The National Endowment for the Humanities](https://www.neh.gov/). His research focuses on medieval Sufi literature, the history of sexuality and the body, and digital humanities. He currently is working on a book project, entitled *Beautiful Bodies: Embodiment and Mystical Modes of Meaning Creation in Medieval Persian Sufi Literature,* and a number of articles on computational or “distant reading” approaches to Persian literature and carnivalesque Sufi poetry. 
+Matthew Thomas Miller, PhD. is Assistant Professor of Persian Literature and Digital Humanities at [Roshan Institute for Persian Studies at the University of Maryland, College Park](http://sllc.umd.edu/persian) and and an affiliate of the [Maryland Institute for Technology in the Humanities](https://mith.umd.edu/people/). He also serves as the Director of the [Roshan Initiative in Persian Digital Humanities (PersDig@UMD)](http://persdig.umd.edu/) and as the co-PI for the multi-institutional [Open Islamicate Texts Initiative (OpenITI)](https://www.openiti.org/) and the [Persian Manuscript Initiative (PMI)](http://www.persianmanuscript.org/). He has received funding for these projects from [The Andrew W. Mellon Foundation](https://mellon.org/) and [The National Endowment for the Humanities](https://www.neh.gov/). His research focuses on medieval Sufi literature, the history of sexuality and the body, and digital humanities. He currently is working on a book project, entitled *Affected by God: Embodied Poetics and Somatic Epistemology in Medieval Persian Sufi Literature,* and a number of articles on computational or “distant reading” approaches to Persian literature and carnivalesque Sufi poetry. 
 
 # Education
 
@@ -15,7 +15,9 @@ Matthew Thomas Miller, PhD. is Assistant Professor of Persian Literature and Dig
 
 # Honors, Awards, and Grants (Selected)
 
-* Level III Digital Humanities Advancement Grant ($324,571) from the National Endowment for the Humanities for the project entitled, ["Automatic Collation for Diversifying Corpora: Improving Handwritten Text Recognition (HTR) for Arabic-script Manuscripts"](https://twitter.com/M_T_Miller/status/1339315848373297158) (Role: Principal Investigator) (2020).      
+* [Independent Scholarship, Research and Creativity Award (ISRCA)](https://research.umd.edu/development/independent-scholarship-research-and-creativity-awards-isrca-0) ($10,000 for Spring 2022 teaching release)    
+* Grant ($100,000) from The Andrew W. Mellon Foundation for bridge funding phase of ["The Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project (OpenITI AOCP)"](https://medium.com/@openiti/openiti-aocp-9802865a6586) (Role: Principal Investigator) (2021)      
+* Level III Digital Humanities Advancement Grant ($282,905) from the National Endowment for the Humanities for the project entitled, ["Automatic Collation for Diversifying Corpora: Improving Handwritten Text Recognition (HTR) for Arabic-script Manuscripts"](https://twitter.com/M_T_Miller/status/1339315848373297158) (Role: Principal Investigator) (2020).      
 * HathiTrust Research Center Advanced Collaborative Support Award for ["Detecting and Transcribing Arabographic Texts"](https://www.hathitrust.org/htrc-awards-three-acs-projects) (Role: Co-Principal Investigator) (2020)      
 * Grant ($800,000) from The Andrew W. Mellon Foundation for ["The Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project (OpenITI AOCP)"](https://medium.com/@openiti/openiti-aocp-9802865a6586) (Role: Principal Investigator) (2019)   
 * Ehsan Yarshater Fellowship in Iranian and Persian Studies, Yale University (2017-2019) (declined)    
@@ -30,7 +32,9 @@ Matthew Thomas Miller, PhD. is Assistant Professor of Persian Literature and Dig
 
 # Scholarly Publications  
      
-* (with Benjamin Kiessling, Gennady Kuran, and Kader Smail), "Advances and Limitations in Open Source Arabic-Script OCR: A Case Study." *Digital Studies/Le champ numérique*. Forthcoming 2021.    
+* "The Poetics of the Sufi Carnival: The Rogue Lyrics (*Qalandariyyāt*) as Heterotopic Countergenre(s)." *Al-ʿUṣūr al-Wusṭā: The Journal of Middle East Medievalists* (Forthcoming 2022).       
+* "The Qalandar King: Early Development of the *Qalandariyyāt* and Saljuq Conceptions of Kingship in Amir Moʿezzi’s Panegyric for Sharafshāh Jaʿfari." *Iranian Studies* (Forthcoming 2022).                
+* (with Benajmin Kiessling, Gennady Kurin, and Kader Smail). “Advances and Limitations in Open Source Arabic-Script OCR: A Case Study,” *Digital Studies / Le champ numérique* 11:1 (2021). doi: https://doi.org/10.16995/dscn.8094    
 * (third author, with Benjamin Kiessling and Daniel Stökl Ben Ezra). "BADAM: A Public Dataset for Baseline Detection in Arabic-script Manuscripts." *HIP 2019: 5th International Workshop on Historical Document Imaging and Processing* (October 20th-21st, 2019). doi: [https://dl.acm.org/doi/pdf/10.1145/3352631.3352648](https://dl.acm.org/doi/pdf/10.1145/3352631.3352648) [^1]    
 * (fourth author, with Maxim Romanov, Masoumeh Seydi, and Sarah Savant), "Open Islamicate Texts Initiative: a Machine-Readable Corpus of Texts Produced the Premodern Islamicate World." *DH2019* (Utrecht University 9-12 July 2019). doi: [https://dev.clariah.nl/files/dh2019/boa/0838.html](https://dev.clariah.nl/files/dh2019/boa/0838.html) (Received the DH2019 prize for the most "innovative and interdisciplinary research")[^1]    
 * (with Ali Khan Mahmudabad and Columba Stewart). "The Raja of Mahmudabad Palace Library Project." *Shi'i Studies Review* 3 (2019): 271-279. doi: [http://dx.doi.org/10.17613/ap4q-zw79](http://dx.doi.org/10.17613/ap4q-zw79)
@@ -46,8 +50,19 @@ https://doi.org/10.1017/S0020743817001027)
 
 [^1]: Considered a peer review publication by relevant academic organizations.
 
+## Submitted Works (Under Peer Review)
+             
+* "Genre in Classical Persian Poetry." In *The Routledge Handbook on Persian Literature*, edited by Kamran Talattof (Oxfordshire: Routledge). Submitted to the editor in July 2020.    
+* “Fakhr al-Dīn ʿIrāqī: Poet and Mystic.” In *Literary Mystical Landscapes: Voices and Themes in Medieval Persian Prose and Poetry*, edited by Fatemeh Keshavarz and Ahmet T. Karamustafa. Submitted to the editors in August 2019. 
+
+## Works in Progress
+
+* *Affected by God: Embodied Poetics and Somatic Epistemology in Medieval Persian Sufi Literature*. Book manuscript in preparation.                                          
+* *Reading Classical Persian: A Comprehensive High-Frequency Introduction to Classical Persian*. Book manuscript in preparation. 
+
 # Public Intellectual Writing
 
+ * "Sufi love poetry is in vogue, but few grasp its radical meaning." *Aeon Psyche*, October 13th, 2021. url: https://psyche.co/ideas/sufi-love-poetry-is-in-vogue-but-few-grasp-its-radical-meaning     
  * “[The Kite Runner Critiqued: New Orientalism Goes to the Big Screen](http://www.commondreams.org/views/2008/01/05/kite-runner-critiqued-new-orientalism-goes-big-screen).” *CommonDreams* (Jan 2008). Available for download [here](http://dx.doi.org/10.17613/M6Q524). Translated into Persian: “Ravâyati neo-orientâlisti az khâvarmiyâneh: naqdi digar bar ‘Bâdbâdak-bâz’.” Jahân-e Ketâb sâl-e sizdahom, shomâreh-ye 3 va 4 (Khordâd va Tir 1387). Translated by Ahmad Sayf. Available [here](http://dx.doi.org/10.17613/M6KF99).     
 
 # Course Offerings
