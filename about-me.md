@@ -5,7 +5,7 @@ title: About Me
 
 # Brief Bio
 
-Matthew Thomas Miller, PhD. is Assistant Professor of Persian Literature and Digital Humanities at [Roshan Institute for Persian Studies at the University of Maryland, College Park](http://sllc.umd.edu/persian) and and an affiliate of the [Maryland Institute for Technology in the Humanities](https://mith.umd.edu/people/). He also serves as the Director of the [Roshan Initiative in Persian Digital Humanities (PersDig@UMD)](http://persdig.umd.edu/) and as the co-PI for the multi-institutional [Open Islamicate Texts Initiative (OpenITI)](https://www.openiti.org/) and the [Persian Manuscript Initiative (PMI)](http://www.persianmanuscript.org/). He has received generous funding for these projects from [The Andrew W. Mellon Foundation](https://mellon.org/), [The National Endowment for the Humanities](https://www.neh.gov/), and [The Islamic Manuscript Association](https://www.islamicmanuscript.org/home.aspx). His research focuses on medieval Sufi literature; the history of sexuality, the body, sense, and affect; and digital humanities. He currently is working on a book project, entitled *Affected by God: Embodied Poetics and Somatic Epistemology in Medieval Persian Sufi Literature,* and a number of articles on computational or “distant reading” approaches to Persian literature and carnivalesque Sufi poetry. 
+Matthew Thomas Miller, PhD. is Assistant Professor of Persian Literature and Digital Humanities at [Roshan Institute for Persian Studies at the University of Maryland, College Park](http://sllc.umd.edu/persian) and and affiliate faculty of the [Maryland Institute for Technology in the Humanities](https://mith.umd.edu/people/), [Religious Studies](https://jewishstudies.umd.edu/research/religious-studies), and [Comparative Literature](https://english.umd.edu/academic-programs/graduate/phd-comparative-literature). He also serves as the Director of the [Roshan Initiative in Persian Digital Humanities (PersDig@UMD)](http://persdig.umd.edu/) and as the co-PI for the multi-institutional [Open Islamicate Texts Initiative (OpenITI)](https://www.openiti.org/) and the [Persian Manuscript Initiative (PMI)](http://www.persianmanuscript.org/). He has received generous funding for these projects from [The Andrew W. Mellon Foundation](https://mellon.org/), [The National Endowment for the Humanities](https://www.neh.gov/), [The National Science Foundation](https://www.nsf.gov/) and [The Islamic Manuscript Association](https://www.islamicmanuscript.org/home.aspx). His research focuses on medieval Sufi literature; the history of sexuality, the body, sense, and affect; and digital humanities. He currently is working on a book project, entitled *Affected by God: Affective Poetics and Epistemology in Medieval Persian Sufi Literature,* and carnivalesque Sufi poetry. 
 
 # Education
 
@@ -15,8 +15,10 @@ Matthew Thomas Miller, PhD. is Assistant Professor of Persian Literature and Dig
 
 # Honors, Awards, and Grants (Selected)
 
-* [Independent Scholarship, Research and Creativity Award (ISRCA)](https://research.umd.edu/development/independent-scholarship-research-and-creativity-awards-isrca-0) ($10,000 for Spring 2022 teaching release)    
-* Grant ($100,000) from The Andrew W. Mellon Foundation for bridge funding phase of ["The Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project (OpenITI AOCP)"](https://medium.com/@openiti/openiti-aocp-9802865a6586) (Role: Principal Investigator) (2021)      
+* $1,750,000 grant from The Mellon Foundation for [Phase II of The Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project (OpenITI AOCP)](https://sllc.umd.edu/news/mellon-grant-funds-continuation-islamicate-text-digitization-project) (Role: Principal Investigator) (2022)     
+* $600,000 grant from the National Science Foundation for the ["Unsupervised Islamicate Manuscript Transcription via Lacunae Reconstruction"](https://arhu.umd.edu/news/nsf-grant-funds-research-islamicate-manuscript-transcription-methods) (Role: Co-Principal Investigator, split with collaborators at University of California, San Diego's [Berg Lab](https://icebergnlp.github.io/)) (2022)      
+* $10,000 [Independent Scholarship, Research and Creativity Award (ISRCA)](https://research.umd.edu/development/independent-scholarship-research-and-creativity-awards-isrca-0) (Spring Semester 2022 teaching release)     
+* $100,000 grant from The Mellon Foundation for [bridge funding phase of "The Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project (OpenITI AOCP)"](https://arhu.umd.edu/news/mellon-grant-funds-continuation-persian-and-arabic-digitization-project) (Role: Principal Investigator) (2021)   
 * Level III Digital Humanities Advancement Grant ($282,905) from the National Endowment for the Humanities for the project entitled, ["Automatic Collation for Diversifying Corpora: Improving Handwritten Text Recognition (HTR) for Arabic-script Manuscripts"](https://twitter.com/M_T_Miller/status/1339315848373297158) (Role: Principal Investigator) (2020).      
 * HathiTrust Research Center Advanced Collaborative Support Award for ["Detecting and Transcribing Arabographic Texts"](https://www.hathitrust.org/htrc-awards-three-acs-projects) (Role: Co-Principal Investigator) (2020)      
 * Grant ($800,000) from The Andrew W. Mellon Foundation for ["The Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project (OpenITI AOCP)"](https://medium.com/@openiti/openiti-aocp-9802865a6586) (Role: Principal Investigator) (2019)   
@@ -32,8 +34,10 @@ Matthew Thomas Miller, PhD. is Assistant Professor of Persian Literature and Dig
 
 # Scholarly Publications  
      
-* "The Poetics of the Sufi Carnival: The Rogue Lyrics (*Qalandariyyāt*) as Heterotopic Countergenre(s)." *Al-ʿUṣūr al-Wusṭā: The Journal of Middle East Medievalists* (Forthcoming 2022).       
-* "The Qalandar King: Early Development of the *Qalandariyyāt* and Saljuq Conceptions of Kingship in Amir Moʿezzi’s Panegyric for Sharafshāh Jaʿfari." *Iranian Studies* (Forthcoming 2022).                
+* “Fakhr al-Dīn ʿIrāqī: Poet, Mystic, 'Ocean of the Persians'.” In *Mystical Landscapes: Voices and Themes in Medieval Persian Literature*, edited by Fatemeh Keshavarz and Ahmet T. Karamustafa. Edinburgh: Edinburgh University Press, Forthcoming.     
+* (third author, with Nikolai Vogler, Jonathan Allen, and Taylor Berg-Kirkpatrick). "Lacuna Reconstruction: Self-supervised Pre-training for Low-Resource Historical Document Transcription." *Findings of the Association for Computational Linguistics: NAACL 2022* (2022): 206–216. url: [https://aclanthology.org/2022.findings-naacl.15](https://aclanthology.org/2022.findings-naacl.15)[^1]    
+* "The Poetics of the Sufi Carnival: The Rogue Lyrics (*Qalandariyyāt*) as Heterotopic Countergenre(s)." *Al-ʿUṣūr al-Wusṭā: The Journal of Middle East Medievalists* 30 (2022): 1-46. url: [https://journals.library.columbia.edu/index.php/alusur/article/view/uw30mmiller](https://journals.library.columbia.edu/index.php/alusur/article/view/uw30mmiller)       
+* "The Qalandar King: Early Development of the *Qalandariyyāt* and Saljuq Conceptions of Kingship in Amir Moʿezzi’s Panegyric for Sharafshāh Jaʿfari." *Iranian Studies* 55:2 (2022): 521-549. doi: [https://doi.org/10.1017/irn.2021.8](https://doi.org/10.1017/irn.2021.8)                              
 * (with Benajmin Kiessling, Gennady Kurin, and Kader Smail). “Advances and Limitations in Open Source Arabic-Script OCR: A Case Study,” *Digital Studies / Le champ numérique* 11:1 (2021). doi: [https://doi.org/10.16995/dscn.8094](https://doi.org/10.16995/dscn.8094)    
 * (third author, with Benjamin Kiessling and Daniel Stökl Ben Ezra). "BADAM: A Public Dataset for Baseline Detection in Arabic-script Manuscripts." *HIP 2019: 5th International Workshop on Historical Document Imaging and Processing* (October 20th-21st, 2019). doi: [https://dl.acm.org/doi/pdf/10.1145/3352631.3352648](https://dl.acm.org/doi/pdf/10.1145/3352631.3352648) [^1]    
 * (fourth author, with Maxim Romanov, Masoumeh Seydi, and Sarah Savant), "Open Islamicate Texts Initiative: a Machine-Readable Corpus of Texts Produced the Premodern Islamicate World." *DH2019* (Utrecht University 9-12 July 2019). doi: [https://dev.clariah.nl/files/dh2019/boa/0838.html](https://dev.clariah.nl/files/dh2019/boa/0838.html) (Received the DH2019 prize for the most "innovative and interdisciplinary research")[^1]    
@@ -52,12 +56,10 @@ https://doi.org/10.1017/S0020743817001027)
 
 ## Submitted Works (Under Peer Review)
              
-* "Genre in Classical Persian Poetry." In *The Routledge Handbook on Persian Literature*, edited by Kamran Talattof (Oxfordshire: Routledge). Submitted to the editor in July 2020.    
-* “Fakhr al-Dīn ʿIrāqī: Poet and Mystic.” In *Literary Mystical Landscapes: Voices and Themes in Medieval Persian Prose and Poetry*, edited by Fatemeh Keshavarz and Ahmet T. Karamustafa. Submitted to the editors in August 2019. 
-
+* "Genre in Classical Persian Poetry." In *The Routledge Handbook on Persian Literature*, edited by Kamran Talattof (Oxfordshire: Routledge). Submitted to the editor in July 2020.     
 ## Works in Progress
 
-* *Affected by God: Embodied Poetics and Somatic Epistemology in Medieval Persian Sufi Literature*. Book manuscript in preparation.                                          
+* *Affected by God: Affective Poetics and Epistemology in Medieval Persian Sufi Literature*. Book manuscript in preparation.                                          
 * *Reading Classical Persian: A Comprehensive High-Frequency Introduction to Classical Persian*. Book manuscript in preparation. 
 
 # Public Intellectual Writing
@@ -70,7 +72,7 @@ https://doi.org/10.1017/S0020743817001027)
 * *Iranian Cinema* (Fall 2019, Fall 2020)       
 * [*Sex, Love, and Desire in Persian Poetry* (Spring 2018)]({% post_url 2018-01-20-Course-Sex-Love-and-Desire-in-Persian-Poetry %})         
 * Instructor, *Lyrics of Mystical Love: Rumi, Song of Songs, and St. Teresa of Avila to Mirabai and Manhae* (Spring 2019)      
-* [*Sex, Gender, and Sexuality in the Islamic World* (Spring 2017, Fall 2018)]({% post_url 2017-01-20-Course-Sex-Gender-and-Sexuality-in-the-Islamic-World %})    
+* [*Sex, Gender, and Sexuality in the Islamic World* (Spring 2017, Fall 2018, Fall 2022)]({% post_url 2017-01-20-Course-Sex-Gender-and-Sexuality-in-the-Islamic-World %})    
 * [*The Islamicate World 2.0: Studying Islamic Cultures through Computational Textual Analysis* (Fall 2016, Spring 2021)]({% post_url 2016-08-15-Course-The-Islamicate-World-2 %})      
 * [*Introduction to Global Digital Humanities* (Spring 2016)]({% post_url 2016-01-20-Course-Introduction-to-Global-Digital-Humanities %})   
 * [*Introduction to Persian Literature in Translation* (Spring 2015, Fall 2017)]({% post_url 2015-01-20-Course-Introduction-to-Persian-Literature-in-Translation %})   
