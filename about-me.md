@@ -31,7 +31,9 @@ Matthew Thomas Miller is Assistant Professor of Persian Literature and Digital H
 * Mellon-Sawyer Graduate Fellowship (2011-2012)    
 * [Phi Beta Kappa Honor Society](https://www.pbk.org/) (Spring 2007)
 
-# Books
+# Scholarly Publications
+
+## Books
 
 * *Feeling Like Lovers: Affect in Medieval Sufism* (under review at University of California Press).
 
@@ -41,7 +43,7 @@ Matthew Thomas Miller is Assistant Professor of Persian Literature and Digital H
 
 * (with Kristina Richardson). A special issue/thematic dossier, entitled "From the Margins, From Below: Theoretical and Analytical Interventions in Premodern Middle Eastern Studies." *Al-ʿUṣūr al-Wusṭā: the Journal of Middle East Medievalists* (scheduled to be published 2026).
 
-# Journal Articles and Book Chapters  
+## Journal Articles and Book Chapters  
   
 * "Fakhr al-Dīn ʿIrāqī: Poet, Mystic, 'Ocean of the Persians'." In [*Mystical Landscapes: Voices and Themes in Medieval Persian Literature*](https://edinburghuniversitypress.com/book-mystical-landscapes-in-medieval-persian-literature.html), edited by Fatemeh Keshavarz and Ahmet T. Karamustafa. Edinburgh: Edinburgh University Press, 2025. 
 * (fourth author, with David A. Smith, Jacob Murel, and Jonathan Parkes Allen). "Automatic Collation for Diversifying Corpora: Commonly Copied Texts as Distant Supervision for Handwritten Text Recognition." In *Proceedings of the Computational Humanities Research Conference 2023*, Paris, France, December 6-8, 2023, edited by Artjoms Sela, Fotis Jannidis, and Iza Romanowska, 3558:206–21. CEUR Workshop Proceedings. CEUR-WS.org, 2023. [https://ceur-ws.org/Vol-3558/paper1708.pdf](https://ceur-ws.org/Vol-3558/paper1708.pdf).    

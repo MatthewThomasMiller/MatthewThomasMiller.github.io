@@ -1,6 +1,6 @@
 # Site settings
 title: Matthew Thomas Miller
-description: 'Assistant Professor of Persian Literature and Digital Humanities at Roshan Institute for Persian Studies, University of Maryland, College Park; Director, Roshan Initiative in Persian Digital Humanities; and affiliate faculty of the Religious Studies and Comparative Literature programs and the Maryland Institute for Technology in the Humanities'
+description: 'Assistant Professor of Persian Literature and Digital Humanities at Roshan Institute for Persian Studies, University of Maryland, College Park; Director, Roshan Initiative in Persian Digital Humanities; and affiliate faculty of the Maryland Institute for Technology in the Humanities (MITH) and the Religious Studies and Comparative Literature programs'
 url: 'https://matthewthomasmiller.github.io/'
 baseurl: '/'
 google_analytics: 'G-MLZFR8WMTY'
@@ -9,8 +9,7 @@ google_analytics: 'G-MLZFR8WMTY'
 author:
   name: 'Matthew Thomas Miller'
   email: mtmiller@umd.edu
-  twitter_username: M_T_Miller
-  #facebook_username: joshgerdes
+  bsky_username: mtmiller.bsky.social
   github_username:  matthewthomasmiller
   linkedin_username:  matthew-thomas-miller-30a36995
 
