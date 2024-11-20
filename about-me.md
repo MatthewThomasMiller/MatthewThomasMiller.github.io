@@ -31,9 +31,19 @@ Matthew Thomas Miller is Assistant Professor of Persian Literature and Digital H
 * Mellon-Sawyer Graduate Fellowship (2011-2012)    
 * [Phi Beta Kappa Honor Society](https://www.pbk.org/) (Spring 2007)
 
-# Scholarly Publications  
+# Books
+
+* *Feeling Like Lovers: Affect in Medieval Sufism* (under review at University of California Press).
+
+## Edited Volumes
+ 
+* (with Domenico Ingenito). *Medieval and Early Modern Persian Poetry: Welcoming New Directions and Forgotten Geographies.* Edinburgh University Press, Forthcoming.    
+
+* (with Kristina Richardson). A special issue/thematic dossier, entitled "From the Margins, From Below: Theoretical and Analytical Interventions in Premodern Middle Eastern Studies." *Al-ʿUṣūr al-Wusṭā: the Journal of Middle East Medievalists* (scheduled to be published 2026).
+
+# Journal Articles and Book Chapters  
   
-* "Fakhr al-Dīn ʿIrāqī: Poet, Mystic, 'Ocean of the Persians'." In *Mystical Landscapes: Voices and Themes in Medieval Persian Literature*, edited by Fatemeh Keshavarz and Ahmet T. Karamustafa. Edinburgh: Edinburgh University Press, 2025. 
+* "Fakhr al-Dīn ʿIrāqī: Poet, Mystic, 'Ocean of the Persians'." In [*Mystical Landscapes: Voices and Themes in Medieval Persian Literature*](https://edinburghuniversitypress.com/book-mystical-landscapes-in-medieval-persian-literature.html), edited by Fatemeh Keshavarz and Ahmet T. Karamustafa. Edinburgh: Edinburgh University Press, 2025. 
 * (fourth author, with David A. Smith, Jacob Murel, and Jonathan Parkes Allen). "Automatic Collation for Diversifying Corpora: Commonly Copied Texts as Distant Supervision for Handwritten Text Recognition." In *Proceedings of the Computational Humanities Research Conference 2023*, Paris, France, December 6-8, 2023, edited by Artjoms Sela, Fotis Jannidis, and Iza Romanowska, 3558:206–21. CEUR Workshop Proceedings. CEUR-WS.org, 2023. [https://ceur-ws.org/Vol-3558/paper1708.pdf](https://ceur-ws.org/Vol-3558/paper1708.pdf).    
 * "Genre in Classical Persian Poetry." In *The Routledge Handbook on Persian Literature*, edited by Kamran Talattof, 76-120. New York: Routledge, 2023.      
 * (third author, with Nikolai Vogler, Jonathan Allen, and Taylor Berg-Kirkpatrick). "Lacuna Reconstruction: Self-supervised Pre-training for Low-Resource Historical Document Transcription." *Findings of the Association for Computational Linguistics: NAACL 2022* (2022): 206–216. url: [https://aclanthology.org/2022.findings-naacl.15](https://aclanthology.org/2022.findings-naacl.15)[^1]    
@@ -44,13 +54,7 @@ Matthew Thomas Miller is Assistant Professor of Persian Literature and Digital H
 * (fourth author, with Maxim Romanov, Masoumeh Seydi, and Sarah Savant), "Open Islamicate Texts Initiative: a Machine-Readable Corpus of Texts Produced the Premodern Islamicate World." *DH2019* (Utrecht University 9-12 July 2019). doi: [https://dev.clariah.nl/files/dh2019/boa/0838.html](https://dev.clariah.nl/files/dh2019/boa/0838.html) (Received the DH2019 prize for the most "innovative and interdisciplinary research")[^1]    
 * "Embodying the Sufi Beloved: (Homo)eroticism, Embodiment, and the Construction of Desire in the Hagiographic Tradition of ‘Erâqi." *Journal of Middle Eastern Literatures* 21:1 (2018): 1-27. doi: [https://doi.org/10.1080/1475262X.2018.1492134](https://doi.org/10.1080/1475262X.2018.1492134)    
 * (with Bridget Almas, Emad Khazraee, and Joshua Westgard). "Manuscript Study in Digital Spaces: The State of the Field and New Ways Forward." *Digital Humanities Quarterly* 12/2 (2018). doi: [http://www.digitalhumanities.org/dhq/vol/12/2/000374/000374.html](http://www.digitalhumanities.org/dhq/vol/12/2/000374/000374.html).   
-* (with Maxim G. Romanov, Sarah Bowen Savant, and Ben Kiessling). “Important New Developments in Arabographic Optical Character Recognition (OCR).” *Al-ʿUṣūr al-Wusṭā: The Journal of Middle East Medievalists* 25 (2017). doi: [http://dx.doi.org/10.17613/M6TZ4R](http://dx.doi.org/10.17613/M6TZ4R).           
-
-## Edited Volumes
- 
-* (with Domenico Ingenito). *Medieval and Early Modern Persian Poetry: Welcoming New Directions and Forgotten Geographies.* Edinburgh University Press, Forthcoming.    
-
-* (with Kristina Richardson). A special issue/thematic dossier, entitled "From the Margins, From Below: Theoretical and Analytical Interventions in Premodern Middle Eastern Studies." *Al-ʿUṣūr al-Wusṭā: the Journal of Middle East Medievalists* (scheduled to be published 2026). 
+* (with Maxim G. Romanov, Sarah Bowen Savant, and Ben Kiessling). “Important New Developments in Arabographic Optical Character Recognition (OCR).” *Al-ʿUṣūr al-Wusṭā: The Journal of Middle East Medievalists* 25 (2017). doi: [http://dx.doi.org/10.17613/M6TZ4R](http://dx.doi.org/10.17613/M6TZ4R).            
 
 ## Translations
 
@@ -67,8 +71,7 @@ https://doi.org/10.1017/S0020743817001027](
 https://doi.org/10.1017/S0020743817001027).  
 
 ## Works in Progress
- 
-* *Feeling Like Lovers: Affect in Medieval Sufism*. Book manuscript in preparation.                                          
+
 * *Reading Classical Persian: A Comprehensive High-Frequency Introduction to Classical Persian*. Book manuscript in preparation.    
 
 # Public Intellectual Writing
