@@ -96,8 +96,8 @@ https://doi.org/10.1017/S0020743817001027).
 # Service to Profession		
 
 * Member, [Alpheios](https://alpheios.net/) Advisory Board        
-* Member, Board of [Islamicate Digital Humanities Network](https://idhn.org/advisory-board/)     
-* Member, [ALTO (Analyzed Layout and Text Object)](https://www.loc.gov/standards/alto/) International Editorial Board for OCR standards.     
-* Member, [vHMML](https://www.vhmml.org/) Board of Advisors, Hill Museum and Manuscript Library (HMML)          
-* Served on two National Endowment for the Humanities grant review panels.     
+* Member, Board of [Islamicate Digital Humanities Network](https://idhn.org/advisory-board/)          
+* Member, [vHMML](https://www.vhmml.org/) Board of Advisors, Hill Museum and Manuscript Library (HMML)
+* Former Member, [ALTO (Analyzed Layout and Text Object)](https://www.loc.gov/standards/alto/) International Editorial Board for OCR standards          
+* Served on two National Endowment for the Humanities grant review panels     
 * Institutional Trustee, Board of Trustees, [American Institute of Afghanistan Studies (AIAS)](https://afghan-institute.org/about/trustees/)     
