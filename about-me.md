@@ -33,11 +33,11 @@ Matthew Thomas Miller is Assistant Professor of Persian Literature and Digital H
 
 ## Books
 
-* *Feeling Like Lovers: Affect in Medieval Sufism* (under review with University of California Press).
+* *Feeling Like Lovers: Affect in Medieval Sufism*. Under review with University of California Press.
 
 ## Edited Volumes
  
-* (with Domenico Ingenito). *Medieval and Early Modern Persian Poetry: Welcoming New Directions and Forgotten Geographies.* Edinburgh University Press, Forthcoming.    
+* (with Domenico Ingenito). *Medieval and Early Modern Persian Poetry: Welcoming New Directions and Forgotten Geographies.* Under contract with Edinburgh University Press.    
 
 * (with Kristina Richardson). A special issue/thematic dossier, entitled "From the Margins, From Below: Theoretical and Analytical Interventions in Premodern Middle Eastern Studies." *Al-ʿUṣūr al-Wusṭā: the Journal of Middle East Medievalists* (scheduled to be published 2026).
 
@@ -58,7 +58,7 @@ Matthew Thomas Miller is Assistant Professor of Persian Literature and Digital H
 
 ## Translations
 
-* *God's Wild Lovers: The Ecstatic Lyrics of Sufism’s Rogue Poets*. University of California Press, Forthcoming.
+* *God's Wild Lovers: The Ecstatic Lyrics of Sufism’s Rogue Poets*. Under contract with University of California Press.
 
 ## White Papers
 
