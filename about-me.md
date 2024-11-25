@@ -60,6 +60,10 @@ Matthew Thomas Miller is Assistant Professor of Persian Literature and Digital H
 
 * *God's Wild Lovers: The Ecstatic Lyrics of Sufism’s Rogue Poets*. University of California Press, Forthcoming.
 
+## White Papers
+
+* (with Jonathan Parkes Allen, John Mullan, and David Smith). "Digitizing the Islamicate Written Traditions: History, State of the Field, and Best Practices for Open-source Arabic-script OCR." White paper for the Open Islamicate Texts Initiative Arabic-script OCR Catalyst project, Phase I (2022). [https://docs.google.com/document/d/1NJOB3rBBEowzwOzyggi479rv9ydQ2JL7syyuyi_x9Qw/edit?usp=sharing](https://docs.google.com/document/d/1NJOB3rBBEowzwOzyggi479rv9ydQ2JL7syyuyi_x9Qw/edit?usp=sharing) 
+
 ## Invited Contributions
 
 * (with Jake Benson, Ali Khan Mahmudabad, and Columba Stewart). "The Raja of Mahmudabad Palace Library Project." *Shi'i Studies Review* 3 (2019): 271-279. doi: [http://dx.doi.org/10.17613/ap4q-zw79](http://dx.doi.org/10.17613/ap4q-zw79).     
