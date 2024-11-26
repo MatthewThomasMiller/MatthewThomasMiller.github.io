@@ -20,7 +20,7 @@ Matthew Thomas Miller is Assistant Professor of Persian Literature and Digital H
 * $282,905 Level III Digital Humanities Advancement Grant from the National Endowment for the Humanities for the project entitled, ["Automatic Collation for Diversifying Corpora: Improving Handwritten Text Recognition (HTR) for Arabic-script Manuscripts"](https://matthewthomasmiller.github.io/2020/NEH-Awards-HTR-Grant-Roshan-UMD/) (Role: Principal Investigator) (2020).      
 * HathiTrust Research Center Advanced Collaborative Support Award for ["Detecting and Transcribing Arabographic Texts"](https://www.hathitrust.org/htrc-awards-three-acs-projects) (Role: Co-Principal Investigator) (2020)      
 * $800,000 grant from The Andrew W. Mellon Foundation for ["The Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project (OpenITI AOCP)"](https://matthewthomasmiller.github.io/2019/OpenITI-Receives/) (Role: Principal Investigator) (2019)
-* $19,583.85 grant from JSTOR to conduct OCR study on *al-Abhath* Arabic journal (2018).   
+* $19,584 grant from JSTOR to conduct OCR study on *al-Abhath* Arabic journal (2018).   
 * Ehsan Yarshater Fellowship in Iranian and Persian Studies, Yale University (2017-2019) (declined)    
 * £5,000 Collection Care and Emergency Response Grant, Islamic Manuscript Association (2017) (for PMI project in the Raja of Mahmudabad Palace Library) (Role: Principal Investigator)    
 * DRIF Conference Grant for "Manuscripts in the 21st Century" workshop (2016)   
