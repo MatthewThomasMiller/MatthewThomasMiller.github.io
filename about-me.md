@@ -80,7 +80,7 @@ https://doi.org/10.1017/S0020743817001027).
 * "Æffecting 'Great Things in the Order of the World': Affect and Political Power in Ghaznavid Panegyrics" (Journal article in preparation for special issue/thematic dossier, entitled "From the Margins, From Below: Theoretical and Analytical Interventions in Premodern Middle Eastern Studies," of *Al-ʿUṣūr al-Wusṭā*).
 * "The Ethics of Digitization, or How to Avoid Digital Colonialism" (journal article in preparation).
 * "In the Winehouse with Our Fellow Rascals": The Poetics, Textual Transmission, and Reception of Fakhr al-Din ʿIraqi's Cupbearer Ode (*Sāqī-Nāmah*) (Book chapter in preparation for *Medieval and Early Modern Persian Poetry: Welcoming New Directions and Forgotten Geographies*).
-* *Reading Classical Persian: A Comprehensive High-Frequency Introduction to Classical Persian*. Book manuscript in preparation.    
+* *Reading Classical Persian: A Comprehensive High-Frequency Introduction to Classical Persian*. Book manuscript in preparation.
 
 # Public Intellectual Writing
 
