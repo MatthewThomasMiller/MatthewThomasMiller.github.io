@@ -78,13 +78,15 @@ https://doi.org/10.1017/S0020743817001027).
 ## Works in Progress
 
 * "Æffecting 'Great Things in the Order of the World': Affect and Political Power in Ghaznavid Panegyrics" (Journal article in preparation for special issue/thematic dossier, entitled "From the Margins, From Below: Theoretical and Analytical Interventions in Premodern Middle Eastern Studies," of *Al-ʿUṣūr al-Wusṭā*).
+* "The Ethics of Digitization, or How to Avoid Digital Colonialism" (journal article in preparation).
 * "In the Winehouse with Our Fellow Rascals": The Poetics, Textual Transmission, and Reception of Fakhr al-Din ʿIraqi's Cupbearer Ode (*Sāqī-Nāmah*) (Book chapter in preparation for *Medieval and Early Modern Persian Poetry: Welcoming New Directions and Forgotten Geographies*).
 * *Reading Classical Persian: A Comprehensive High-Frequency Introduction to Classical Persian*. Book manuscript in preparation.    
 
 # Public Intellectual Writing
 
- * "Sufi love poetry is in vogue, but few grasp its radical meaning." *Aeon Psyche*, October 13th, 2021. url: [https://psyche.co/ideas/sufi-love-poetry-is-in-vogue-but-few-grasp-its-radical-meaning](https://psyche.co/ideas/sufi-love-poetry-is-in-vogue-but-few-grasp-its-radical-meaning)     
- * “[The Kite Runner Critiqued: New Orientalism Goes to the Big Screen](http://www.commondreams.org/views/2008/01/05/kite-runner-critiqued-new-orientalism-goes-big-screen).” *CommonDreams* (Jan 2008). Available for download [here](http://dx.doi.org/10.17613/M6Q524). Translated into Persian: “Ravâyati neo-orientâlisti az khâvarmiyâneh: naqdi digar bar ‘Bâdbâdak-bâz’.” Jahân-e Ketâb sâl-e sizdahom, shomâreh-ye 3 va 4 (Khordâd va Tir 1387). Translated by Ahmad Sayf. Available [here](http://dx.doi.org/10.17613/M6KF99).     
+* "OpenITI and Digital Philology in South Asia." *OpenITI Blog*, forthcoming.
+* "Sufi love poetry is in vogue, but few grasp its radical meaning." *Aeon Psyche*, October 13th, 2021. url: [https://psyche.co/ideas/sufi-love-poetry-is-in-vogue-but-few-grasp-its-radical-meaning](https://psyche.co/ideas/sufi-love-poetry-is-in-vogue-but-few-grasp-its-radical-meaning)     
+* “[The Kite Runner Critiqued: New Orientalism Goes to the Big Screen](http://www.commondreams.org/views/2008/01/05/kite-runner-critiqued-new-orientalism-goes-big-screen).” *CommonDreams* (Jan 2008). Available for download [here](http://dx.doi.org/10.17613/M6Q524). Translated into Persian: “Ravâyati neo-orientâlisti az khâvarmiyâneh: naqdi digar bar ‘Bâdbâdak-bâz’.” Jahân-e Ketâb sâl-e sizdahom, shomâreh-ye 3 va 4 (Khordâd va Tir 1387). Translated by Ahmad Sayf. Available [here](http://dx.doi.org/10.17613/M6KF99).     
 
 ## Teaching Experience
 
