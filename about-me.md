@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-Matthew Thomas Miller is Assistant Professor of Persian Literature and Digital Humanities at [Roshan Institute for Persian Studies at the University of Maryland, College Park](http://sllc.umd.edu/persian) and affiliate faculty of the [Maryland Institute for Technology in the Humanities](https://mith.umd.edu/people/) and the [Religious Studies](https://jewishstudies.umd.edu/research/religious-studies) and [Comparative Literature](https://english.umd.edu/academic-programs/graduate/phd-comparative-literature) programs. He also serves as the Director of the [Roshan Initiative in Persian Digital Humanities (PersDig@UMD)](http://persdig.umd.edu/) and as the co-PI for the multi-institutional [Open Islamicate Texts Initiative (OpenITI)](https://openiti.org/) and the [Persian Manuscript Initiative (PMI)](http://www.persianmanuscript.org/). He has received generous funding for these projects from [The Mellon Foundation](https://mellon.org/), [The National Endowment for the Humanities](https://www.neh.gov/), [The National Science Foundation](https://www.nsf.gov/) and [The Islamic Manuscript Association](https://www.islamicmanuscript.org/home.aspx). His research focuses on Persian literature; Sufism; the history of affect/emotion in the Islamicate world; digital humanities; literary cultures of Middle Eastern revolutionary movements. He is the author of [*Feeling Like Lovers: Affect in Medieval Sufism* (University of California Press, 2026)](https://www.ucpress.edu/books/feeling-like-lovers/hardcover), which treats the foundational role of affect/emotion in premodern Sufi epistemology and subject formation. He currently is working on four projects: an edited volume of studies of premodern Persian literature (with Domenico Ingenito), entitled *Medieval and Early Modern Persian Poetry: Welcoming New Directions and Forgotten Geographies* (Edinburgh University Press); co-editing (with Kristina Richardson) a special issue/thematic dossier, entitled "From the Margins, From Below: Theoretical and Analytical Interventions in Premodern Middle Eastern Studies" in *Al-ʿUṣūr al-Wusṭā: the Journal of Middle East Medievalists* (scheduled to be published 2026); and a book of translations of the (in)famous "rogue lyrics" (*qalandariyyāt*) of Sanāʾī, ʿAṭṭār, and ʿIrāqī, entitled *God's Wild Lovers: The Ecstatic Lyrics of Sufism's Rogue Poets* (University of California Press).
+Matthew Thomas Miller is Assistant Professor of Persian Literature and Digital Humanities at [Roshan Institute for Persian Studies at the University of Maryland, College Park](http://sllc.umd.edu/persian) and affiliate faculty of the [Maryland Institute for Technology in the Humanities](https://mith.umd.edu/people/) and the [Religious Studies](https://jewishstudies.umd.edu/research/religious-studies) and [Comparative Literature](https://english.umd.edu/academic-programs/graduate/phd-comparative-literature) programs. He also serves as the Director of the [Roshan Initiative in Persian Digital Humanities (PersDig@UMD)](http://persdig.umd.edu/) and the [Elahé Omidyar Mir-Djalali Persian Digital Library (EOMPDL)](https://today.umd.edu/roshan-institute-to-establish-persian-digital-library) and as the co-PI for the multi-institutional [Open Islamicate Texts Initiative (OpenITI)](https://openiti.org/) and the [Persian Manuscript Initiative (PMI)](http://www.persianmanuscript.org/). He has received generous funding for these projects from [The Mellon Foundation](https://mellon.org/), [The National Endowment for the Humanities](https://www.neh.gov/), [The National Science Foundation](https://www.nsf.gov/), [The Roshan Cultural Heritage Institute](https://roshan-institute.org/), and [The Islamic Manuscript Association](https://www.islamicmanuscript.org/home.aspx). His research focuses on Persian literature; Sufism; the history of affect/emotion in the Islamicate world; digital humanities; and the literary cultures of modern Middle Eastern revolutionary movements. He is the author of [*Feeling Like Lovers: Affect in Medieval Sufism* (University of California Press, 2026)](https://www.ucpress.edu/books/feeling-like-lovers/hardcover), which treats the foundational role of affect/emotion in premodern Sufi epistemology and subject formation. He currently is working on four projects: an edited volume of studies of premodern Persian literature (with Domenico Ingenito), entitled *Medieval and Early Modern Persian Poetry: Welcoming New Directions and Forgotten Geographies* (Edinburgh University Press); co-editing (with Kristina Richardson) a special issue/thematic dossier, entitled "From the Margins, From Below: Theoretical and Analytical Interventions in Premodern Middle Eastern Studies" in *Al-ʿUṣūr al-Wusṭā: the Journal of Middle East Medievalists* (scheduled to be published 2026); a book of translations of the (in)famous "rogue lyrics" (*qalandariyyāt*) of Sanāʾī, ʿAṭṭār, and ʿIrāqī, entitled *God's Wild Lovers: The Ecstatic Lyrics of Sufism's Rogue Poets* (University of California Press); and, a second monograph, entitled *Æffecting the Order of the World: Poetry and the Affective Economy of the Premodern Persianate*, that extends my first book’s primary focus affects as internal, felt, self-forming epistemological experiences to the examination of the affective economies of medieval Persianate polities.
 
 # Education
 
@@ -13,6 +13,7 @@ Matthew Thomas Miller is Assistant Professor of Persian Literature and Digital H
 
 ## Honors, Awards, and Grants
 
+* $1,800,000 grant and endowment gift from the Roshan Cultural Heritage Institute for the establishment of the Dr. Elahé Omidyar Mir-Djalali Persian Digital Library (EOM PDL) (Role: Director) (2025)
 * Honored by the University of Maryland at the Maryland Research Excellence Celebration for "demonstrably elevat[ing] the visibility and reputation of the University of Maryland Research Enterprise" (2023)    
 * $1,750,000 grant from The Mellon Foundation for [Phase II of The Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project (OpenITI AOCP)](https://matthewthomasmiller.github.io/2022/Mellon-Funds-PhaseII-OpenITI/) (Role: Principal Investigator) (2022)    
 * $600,000 grant from the National Science Foundation for the [Unsupervised Islamicate Manuscript Transcription via Lacunae Reconstruction Project](https://matthewthomasmiller.github.io/2022/NSF-Grant-Funds/) (Role: Principal Investigator, split with collaborators at University of California, San Diego's [Berg Lab](https://icebergnlp.github.io/)) (2022)      
@@ -43,6 +44,8 @@ Matthew Thomas Miller is Assistant Professor of Persian Literature and Digital H
 
 ## Journal Articles, Book Chapters, & Conference Proceedings^[Conference proceedings in the field of computer science are considered to be as prestigious as journal articles in most cases.]
 
+* (with John Mullan, David Smith, Jonathan Allen, Lorenz Nigst, Taimoor Shahid Khan, Mathew Barber, Taylor Berg-Kirkpatrick, Osama Eshera, and Sarah Bowen Savant). "AI-Cat: An Artificial Intelligence-augmented Cataloging Tool and Workflow." Submitted to *Digital Humanities Quarterly* in August 2025. 
+* (with Jonathan Allen, John Mullan, David Smith, Lorenz Nigst, Mathew Barber, Taimoor Shahid Khan, Masoumeh Seydi, Taylor Berg-Kirkpatrick, Nikolai Vogler, Osama Eshera, and Sarah Bowen Savant). "OpenITI MAKHZAN: An Open Annotated Dataset of Arabic, Persian, Ottoman Turkish, and Urdu Print and Manuscript Data." Submitted to *Journal of Open Humanities Data* in April 2025.
 * "Fakhr al-Dīn ʿIrāqī: Poet, Mystic, 'Ocean of the Persians'." In [*Mystical Landscapes: Voices and Themes in Medieval Persian Literature*](https://edinburghuniversitypress.com/book-mystical-landscapes-in-medieval-persian-literature.html), edited by Fatemeh Keshavarz and Ahmet T. Karamustafa. Edinburgh: Edinburgh University Press, 2025.      
 * (fourth author, with David A. Smith, Jacob Murel, and Jonathan Parkes Allen). "Automatic Collation for Diversifying Corpora: Commonly Copied Texts as Distant Supervision for Handwritten Text Recognition." In *Proceedings of the Computational Humanities Research Conference 2023*, Paris, France, December 6-8, 2023, edited by Artjoms Sela, Fotis Jannidis, and Iza Romanowska, 3558:206–21. CEUR Workshop Proceedings. CEUR-WS.org, 2023. [https://ceur-ws.org/Vol-3558/paper1708.pdf](https://ceur-ws.org/Vol-3558/paper1708.pdf).    
 * "Genre in Classical Persian Poetry." In [*Routledge Handbook of Ancient, Classical and Late Classical Persian Literature*](https://www.routledge.com/Routledge-Handbook-of-Ancient-Classical-and-Late-Classical-Persian-Literature/Talattof/p/book/9781032455242?srsltid=AfmBOopUsiP1nZ9iy4bffBlN7rH96FPDEiGGwqb5qhM38Yj04haH6-8s), edited by Kamran Talattof, 77-104. New York: Routledge, 2023.    
@@ -76,10 +79,10 @@ https://doi.org/10.1017/S0020743817001027).
 
 ## Works in Progress
 
-* "Effecting 'Great Things in the Order of the World': The Æffectation of Ghaznavid Power in Farrukhī's *Qasidah* on the Sacking of the Somnath Temple." (Journal article in preparation for special issue/thematic dossier, entitled "From the Margins, From Below: Theoretical and Analytical Interventions in Premodern Middle Eastern Studies," of *Al-ʿUṣūr al-Wusṭā*).     
-* "In the Winehouse with Our Fellow Rascals": The Poetics, Textual Transmission, and Reception of Fakhr al-Din ʿIraqi's Cupbearer Ode (*Sāqī-Nāmah*) (Book chapter in preparation for *Medieval and Early Modern Persian Poetry: Welcoming New Directions and Forgotten Geographies*).    
-* "The Ethics of Digitization, or How to Avoid Digital Colonialism" (journal article in preparation).    
-* *Reading Classical Persian: A Comprehensive High-Frequency Introduction to Classical Persian*. Book manuscript in preparation.                      
+* *Æffecting the Order of the World: Poetry and the Affective Economy of the Premodern Persianate* (second book manuscript, in progress).   
+* "Effecting 'Great Things in the Order of the World': The Æffectation of Ghaznavid Power in Farrukhī's *Qasidah* on the Sacking of the Somnath Temple." (Journal article in preparation for special issue/thematic dossier, entitled "From the Margins, From Below: Theoretical and Analytical Interventions in Premodern Middle Eastern Studies," of *Al-ʿUṣūr al-Wusṭā*). 
+* (with Cameron Cross). *Reading Classical Persian: A Comprehensive High-Frequency Introduction to Classical Persian*. Book manuscript in preparation.    
+* "In the Winehouse with Our Fellow Rascals": The Poetics, Textual Transmission, and Reception of Fakhr al-Din ʿIraqi's Cupbearer Ode (*Sāqī-Nāmah*) (Book chapter in preparation for *Medieval and Early Modern Persian Poetry: Welcoming New Directions and Forgotten Geographies*).                         
 
 ## Public Scholarship
 
@@ -89,12 +92,13 @@ https://doi.org/10.1017/S0020743817001027).
 
 ## Areas of Teaching and Reserarch Interests
 
-**Primary Areas of Interest:** Sufism; Persian literature of all periods; (global) digital humanities; literature of revolutionary movements in the Middle East; Orientalism; literary and cultural theory (especially, gender & sexuality studies, affect theory, history of emotions, sensory history, cognitive literary theory, and translation studies)   
+**Primary Areas of Interest:** Sufism; Persian literature of all periods; (global) digital humanities; Modern Iranian history; Iranian cinema; literature of revolutionary movements in the Middle East; Orientalism; literary and cultural theory (especially, gender & sexuality studies, affect theory, history of emotions, sensory history, cognitive literary theory, and translation studies)   
 
 **Secondary Areas of Interest:** Arabic literature of all periods; contemporary Islamic political thought
 
 ## Teaching Experience
 
+* Instructor, *Modern Iran* (Spring 2026)
 * Instructor, *Sufism: History, Literature, and Politics of Islamic Mysticism* (Fall 2024)   
 * Instructor, *Introduction to Persian Literature in Translation* (Spring 2015, Fall 2017, Spring 2025)   
 * Instructor, *How to Hope: Islamic Utopian and Revolutionary Literature* (Fall 2025)    
@@ -109,7 +113,7 @@ https://doi.org/10.1017/S0020743817001027).
 
 ## Service to University
 
-* Founding Member, University of Maryland Chapter of American Association of University Professors (UMD AAUP) (Spring 2021-now)     
+* Founding Member, University of Maryland Chapter of American Association of University Professors (UMD AAUP), now United Academics of Maryland—University of Maryland (Spring 2021-now)     
 * Member, UMD IT Council - Research Technologies Working Group, 2024-now.    
 * Member, Race, Equity, and Social Justice Committee, School of Languages, Literatures, and Cultures (Fall 2020—Spring 2021)      
 * Member, Search Committee for "Roshan Lecturer in Persian Studies" (Spring 2020)     
