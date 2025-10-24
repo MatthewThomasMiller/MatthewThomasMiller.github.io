@@ -80,7 +80,6 @@ https://doi.org/10.1017/S0020743817001027).
 ## Works in Progress
 
 * *Æffecting the Order of the World: Poetry and the Affective Economy of the Premodern Persianate* (second book manuscript, in progress).   
-* "Effecting 'Great Things in the Order of the World': The Æffectation of Ghaznavid Power in Farrukhī's *Qasidah* on the Sacking of the Somnath Temple." (Journal article in preparation for special issue/thematic dossier, entitled "From the Margins, From Below: Theoretical and Analytical Interventions in Premodern Middle Eastern Studies," of *Al-ʿUṣūr al-Wusṭā*). 
 * (with Cameron Cross). *Reading Classical Persian: A Comprehensive High-Frequency Introduction to Classical Persian*. Book manuscript in preparation.    
 * "In the Winehouse with Our Fellow Rascals": The Poetics, Textual Transmission, and Reception of Fakhr al-Din ʿIraqi's Cupbearer Ode (*Sāqī-Nāmah*) (Book chapter in preparation for *Medieval and Early Modern Persian Poetry: Welcoming New Directions and Forgotten Geographies*).                         
 
