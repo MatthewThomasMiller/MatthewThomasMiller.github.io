@@ -48,7 +48,7 @@ His first book, [*Feeling Like Lovers: Affect in Medieval Sufism* (University of
 
 * (with Kristina Richardson). A special issue/thematic dossier, entitled "From the Margins, From Below: Theoretical and Analytical Interventions in Premodern Middle Eastern Studies." *Al-ʿUṣūr al-Wusṭā: the Journal of Middle East Medievalists* (scheduled to be published 2026).
 
-## Journal Articles, Book Chapters, & Conference Proceedings^[Conference proceedings in the field of computer science are considered to be as prestigious as journal articles in most cases.]
+## Journal Articles, Book Chapters, & Conference Proceedings
 
 * (with John Mullan, David Smith, Jonathan Allen, Lorenz Nigst, Taimoor Shahid Khan, Mathew Barber, Taylor Berg-Kirkpatrick, Osama Eshera, and Sarah Bowen Savant). "AI-Cat: An Artificial Intelligence-augmented Cataloging Tool and Workflow." Submitted to *Digital Humanities Quarterly* in August 2025.    
 * (with Jonathan Allen, John Mullan, David Smith, Lorenz Nigst, Mathew Barber, Taimoor Shahid Khan, Masoumeh Seydi, Taylor Berg-Kirkpatrick, Nikolai Vogler, Osama Eshera, and Sarah Bowen Savant). "OpenITI MAKHZAN: An Open Annotated Dataset of Arabic, Persian, Ottoman Turkish, and Urdu Print and Manuscript Data." Submitted to *Journal of Open Humanities Data* in April 2025.   
