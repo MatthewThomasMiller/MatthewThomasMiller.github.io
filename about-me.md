@@ -3,7 +3,11 @@ layout: page
 title: About Me
 ---
 
-Matthew Thomas Miller is Assistant Professor of Persian Literature and Digital Humanities at [Roshan Institute for Persian Studies at the University of Maryland, College Park](http://sllc.umd.edu/persian) and affiliate faculty of the [Maryland Institute for Technology in the Humanities](https://mith.umd.edu/people/) and the [Religious Studies](https://jewishstudies.umd.edu/research/religious-studies) and [Comparative Literature](https://english.umd.edu/academic-programs/graduate/phd-comparative-literature) programs. He also serves as the Director of the [Roshan Initiative in Persian Digital Humanities (PersDig@UMD)](http://persdig.umd.edu/) and the [Elahé Omidyar Mir-Djalali Persian Digital Library (EOMPDL)](https://today.umd.edu/roshan-institute-to-establish-persian-digital-library) and as the co-PI for the multi-institutional [Open Islamicate Texts Initiative (OpenITI)](https://openiti.org/) and the [Persian Manuscript Initiative (PMI)](http://www.persianmanuscript.org/). He has received generous funding for these projects from [The Mellon Foundation](https://mellon.org/), [The National Endowment for the Humanities](https://www.neh.gov/), [The National Science Foundation](https://www.nsf.gov/), [The Roshan Cultural Heritage Institute](https://roshan-institute.org/), and [The Islamic Manuscript Association](https://www.islamicmanuscript.org/home.aspx). His research focuses on Persian literature; Sufism; the history of affect/emotion in the Islamicate world; digital humanities; and the literary cultures of modern Middle Eastern revolutionary movements. He is the author of [*Feeling Like Lovers: Affect in Medieval Sufism* (University of California Press, 2026)](https://www.ucpress.edu/books/feeling-like-lovers/hardcover), which treats the foundational role of affect/emotion in premodern Sufi epistemology and subject formation. He currently is working on four projects: an edited volume of studies of premodern Persian literature (with Domenico Ingenito), entitled *Medieval and Early Modern Persian Poetry: Welcoming New Directions and Forgotten Geographies* (Edinburgh University Press); co-editing (with Kristina Richardson) a special issue/thematic dossier, entitled "From the Margins, From Below: Theoretical and Analytical Interventions in Premodern Middle Eastern Studies" in *Al-ʿUṣūr al-Wusṭā: the Journal of Middle East Medievalists* (scheduled to be published 2026); a book of translations of the (in)famous "rogue lyrics" (*qalandariyyāt*) of Sanāʾī, ʿAṭṭār, and ʿIrāqī, entitled *God's Wild Lovers: The Ecstatic Lyrics of Sufism's Rogue Poets* (University of California Press); and, a second monograph, entitled *Æffecting the Order of the World: Poetry and the Affective Economy of the Premodern Persianate*, that extends my first book’s primary focus affects as internal, felt, self-forming epistemological experiences to the examination of the affective economies of medieval Persianate polities.
+# Brief Bio
+
+Matthew Thomas Miller is Assistant Professor of Persian Literature and Digital Humanities at [Roshan Institute for Persian Studies at the University of Maryland, College Park](http://sllc.umd.edu/persian) and affiliate faculty of the [Religious Studies](https://jewishstudies.umd.edu/research/religious-studies) and [Comparative Literature](https://english.umd.edu/academic-programs/graduate/phd-comparative-literature) programs and the [Maryland Institute for Technology in the Humanities](https://mith.umd.edu/people/). He also serves as the Director of the [Roshan Initiative in Persian Digital Humanities (PersDig@UMD)](http://persdig.umd.edu/) and the Elahé Omidyar Mir-Djalali Persian Digital Library (EOMPDL), and as the co-PI for the multi-institutional [Open Islamicate Texts Initiative (OpenITI)](https://openiti.org/) and the [Persian Manuscript Initiative (PMI)](http://www.persianmanuscript.org/). He has received generous funding for these projects from [The Mellon Foundation](https://mellon.org/), [The National Endowment for the Humanities](https://www.neh.gov/), [The National Science Foundation](https://www.nsf.gov/) and [The Islamic Manuscript Association](https://www.islamicmanuscript.org/home.aspx). His research focuses on Sufism; the history of sexuality, the body, sense, and affect/emotion; the literary and political writings of twentieth-century Iranian revolutionaries; and digital humanities. 
+
+His first book, [*Feeling Like Lovers: Affect in Medieval Sufism* (University of California, 2026)](https://www.ucpress.edu/books/feeling-like-lovers/), explores the central role of affect, emotion, and feeling in premodern Sufi epistemology and subject formation. He is also working on an edited volume of studies of premodern Persian literature (with Domenico Ingenito), entitled *Medieval and Early Modern Persian Poetry: Welcoming New Directions and Forgotten Geographies* (Edinburgh University Press); a book of translations of the (in)famous "rogue lyrics" (*qalandariyyāt*) of Sanāʾī, ʿAṭṭār, and ʿIrāqī, entitled *God's Wild Lovers: The Ecstatic Lyrics of Sufism's Rogue Poets* (University of California Press); and a new project on the utopian writings of twentieth-century Iranian revolutionary writers. He also is a passionate activist for academic labor and works closely with UMD's chapter of the American Association of University Professors (AAUP), the [United Academics of Maryland-UMD (UAM-UMD)](https://uamumd.org/), and the [national AAUP](https://www.aaup.org/) to help improve higher education in Maryland and beyond.  
 
 # Education
 
@@ -11,30 +15,32 @@ Matthew Thomas Miller is Assistant Professor of Persian Literature and Digital H
 **2009**—MA, Islamic and Near Eastern Studies, Washington University in Saint Louis   
 **2007**—BA, International and Area Studies (with University Honors and Phi Beta Kappa), Washington University in Saint Louis
 
-## Honors, Awards, and Grants
+# Honors, Awards, and Grants (Selected)
 
-* $1,800,000 grant and endowment gift from the Roshan Cultural Heritage Institute for the establishment of the Dr. Elahé Omidyar Mir-Djalali Persian Digital Library (EOM PDL) (Role: Director) (2025)
-* Honored by the University of Maryland at the Maryland Research Excellence Celebration for "demonstrably elevat[ing] the visibility and reputation of the University of Maryland Research Enterprise" (2023)    
-* $1,750,000 grant from The Mellon Foundation for [Phase II of The Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project (OpenITI AOCP)](https://matthewthomasmiller.github.io/2022/Mellon-Funds-PhaseII-OpenITI/) (Role: Principal Investigator) (2022)    
-* $600,000 grant from the National Science Foundation for the [Unsupervised Islamicate Manuscript Transcription via Lacunae Reconstruction Project](https://matthewthomasmiller.github.io/2022/NSF-Grant-Funds/) (Role: Principal Investigator, split with collaborators at University of California, San Diego's [Berg Lab](https://icebergnlp.github.io/)) (2022)      
+* $1,800,000 grant and endowment gift from the Roshan Cultural Heritage Institute for the establishment of the Dr. Elahé Omidyar Mir-Djalali Persian Digital Library (EOMPDL) (Role: Director) (2025)     
+* Honored by the University of Maryland at the Maryland Research Excellence Celebration for "demonstrably elevat[ing] the visibility and reputation of the University of Maryland Research Enterprise" (2023)   
+* $1,750,000 grant from The Mellon Foundation for [Phase II of The Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project (OpenITI AOCP)](https://sllc.umd.edu/news/mellon-grant-funds-continuation-islamicate-text-digitization-project) (Role: Principal Investigator) (2022)     
+* $600,000 grant from the National Science Foundation for the ["Unsupervised Islamicate Manuscript Transcription via Lacunae Reconstruction"](https://arhu.umd.edu/news/nsf-grant-funds-research-islamicate-manuscript-transcription-methods) (Role: Co-Principal Investigator, split with collaborators at University of California, San Diego's [Berg Lab](https://icebergnlp.github.io/)) (2022)      
 * $10,000 [Independent Scholarship, Research and Creativity Award (ISRCA)](https://research.umd.edu/development/independent-scholarship-research-and-creativity-awards-isrca-0) (Spring Semester 2022 teaching release)     
-* $100,000 grant from The Mellon Foundation for [bridge funding phase of The Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project (OpenITI AOCP)](https://matthewthomasmiller.github.io/2021/Mellon-Funds-Continuation/) (Role: Principal Investigator) (2021)    
-* $282,905 Level III Digital Humanities Advancement Grant from the National Endowment for the Humanities for the [Automatic Collation for Diversifying Corpora: Improving Handwritten Text Recognition (HTR) for Arabic-script Manuscripts Project](https://matthewthomasmiller.github.io/2020/NEH-Awards-HTR-Grant-Roshan-UMD/) (Role: Principal Investigator) (2020)     
-* HathiTrust Research Center Advanced Collaborative Support Award for [Detecting and Transcribing Arabographic Texts Project](https://www.hathitrust.org/htrc-awards-three-acs-projects) (Role: Co-Principal Investigator) (2020)   
-* Honored by the University of Maryland at the Maryland Research Excellence Celebration for "demonstrably elevat[ing] the visibility and reputation of the University of Maryland Research Enterprise" (2020)     
-* $800,000 grant from The Mellon Foundation for [Phase I of The Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project (OpenITI AOCP)](https://matthewthomasmiller.github.io/2019/OpenITI-Receives/) (Role: Principal Investigator) (2019)
-* $19,584 grant from JSTOR to conduct OCR study on *al-Abhath* Arabic journal (2018)     
+* $100,000 grant from The Mellon Foundation for [bridge funding phase of "The Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project (OpenITI AOCP)"](https://arhu.umd.edu/news/mellon-grant-funds-continuation-persian-and-arabic-digitization-project) (Role: Principal Investigator) (2021)   
+* Level III Digital Humanities Advancement Grant ($282,905) from the National Endowment for the Humanities for the project entitled, ["Automatic Collation for Diversifying Corpora: Improving Handwritten Text Recognition (HTR) for Arabic-script Manuscripts"](https://twitter.com/M_T_Miller/status/1339315848373297158) (Role: Principal Investigator) (2020).      
+* HathiTrust Research Center Advanced Collaborative Support Award for ["Detecting and Transcribing Arabographic Texts"](https://www.hathitrust.org/htrc-awards-three-acs-projects) (Role: Co-Principal Investigator) (2020)      
+* Grant ($800,000) from The Andrew W. Mellon Foundation for ["The Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project (OpenITI AOCP)"](https://medium.com/@openiti/openiti-aocp-9802865a6586) (Role: Principal Investigator) (2019)   
 * Ehsan Yarshater Fellowship in Iranian and Persian Studies, Yale University (2017-2019) (declined)    
-* £5,000 Collection Care and Emergency Response Grant, Islamic Manuscript Association (2017) (for PMI project in the Raja of Mahmudabad Palace Library) (Role: Principal Investigator)    
+* Collection Care and Emergency Response Grant (£5,000), Islamic Manuscript Association (2017) (for PMI project in the Raja of Mahmudabad Palace Library) (Role: Principal Investigator)    
 * DRIF Conference Grant for "Manuscripts in the 21st Century" workshop (2016)   
-* $15,000 Global Classroom Initiatives Grant for development of the *Islamicate World 2.0: Studying Islamicate Cultures through Computation Textual Analysis* course (2015) (Role: Principal Investigator)      
+* [Global Classroom Initiatives](https://globalmaryland.umd.edu/offices/office-international-affairs/global-classrooms-initiative) Grant (2015) for development of the *Islamicate World 2.0: Studying Islamicate Cultures through Computation Textual Analysis* course ($12,000). More information on the course is available [here](http://islamicate-dh.github.io/IW2Course_2016/) (Role: Principal Investigator)      
+* Tier 1 University of Maryland Grant (2015) for Persian Digital Library project ($50,000)   
 * Roshan Cultural Heritage Institute Fellowship for Excellence in Persian Studies (2012-2013)   
 * Mellon-Sawyer Graduate Fellowship (2011-2012)    
-* Phi Beta Kappa Honor Society (Spring 2007)   
+* [Phi Beta Kappa Honor Society](https://www.pbk.org/) (Spring 2007)    
+
+
+# Scholarly Publications
 
 ## Books
 
-* [*Feeling Like Lovers: Affect in Medieval Sufism* (University of California Press, 2026)](https://www.ucpress.edu/books/feeling-like-lovers/hardcover)
+* [*Feeling Like Lovers: Affect in Medieval Sufism*. Berkeley, CA: University of California Press (2026)](https://www.ucpress.edu/books/feeling-like-lovers/).
 
 ## Edited Volumes
  
@@ -44,8 +50,8 @@ Matthew Thomas Miller is Assistant Professor of Persian Literature and Digital H
 
 ## Journal Articles, Book Chapters, & Conference Proceedings^[Conference proceedings in the field of computer science are considered to be as prestigious as journal articles in most cases.]
 
-* (with John Mullan, David Smith, Jonathan Allen, Lorenz Nigst, Taimoor Shahid Khan, Mathew Barber, Taylor Berg-Kirkpatrick, Osama Eshera, and Sarah Bowen Savant). "AI-Cat: An Artificial Intelligence-augmented Cataloging Tool and Workflow." Submitted to *Digital Humanities Quarterly* in August 2025. 
-* (with Jonathan Allen, John Mullan, David Smith, Lorenz Nigst, Mathew Barber, Taimoor Shahid Khan, Masoumeh Seydi, Taylor Berg-Kirkpatrick, Nikolai Vogler, Osama Eshera, and Sarah Bowen Savant). "OpenITI MAKHZAN: An Open Annotated Dataset of Arabic, Persian, Ottoman Turkish, and Urdu Print and Manuscript Data." Submitted to *Journal of Open Humanities Data* in April 2025.
+* (with John Mullan, David Smith, Jonathan Allen, Lorenz Nigst, Taimoor Shahid Khan, Mathew Barber, Taylor Berg-Kirkpatrick, Osama Eshera, and Sarah Bowen Savant). "AI-Cat: An Artificial Intelligence-augmented Cataloging Tool and Workflow." Submitted to *Digital Humanities Quarterly* in August 2025.    
+* (with Jonathan Allen, John Mullan, David Smith, Lorenz Nigst, Mathew Barber, Taimoor Shahid Khan, Masoumeh Seydi, Taylor Berg-Kirkpatrick, Nikolai Vogler, Osama Eshera, and Sarah Bowen Savant). "OpenITI MAKHZAN: An Open Annotated Dataset of Arabic, Persian, Ottoman Turkish, and Urdu Print and Manuscript Data." Submitted to *Journal of Open Humanities Data* in April 2025.   
 * "Fakhr al-Dīn ʿIrāqī: Poet, Mystic, 'Ocean of the Persians'." In [*Mystical Landscapes: Voices and Themes in Medieval Persian Literature*](https://edinburghuniversitypress.com/book-mystical-landscapes-in-medieval-persian-literature.html), edited by Fatemeh Keshavarz and Ahmet T. Karamustafa. Edinburgh: Edinburgh University Press, 2025.      
 * (fourth author, with David A. Smith, Jacob Murel, and Jonathan Parkes Allen). "Automatic Collation for Diversifying Corpora: Commonly Copied Texts as Distant Supervision for Handwritten Text Recognition." In *Proceedings of the Computational Humanities Research Conference 2023*, Paris, France, December 6-8, 2023, edited by Artjoms Sela, Fotis Jannidis, and Iza Romanowska, 3558:206–21. CEUR Workshop Proceedings. CEUR-WS.org, 2023. [https://ceur-ws.org/Vol-3558/paper1708.pdf](https://ceur-ws.org/Vol-3558/paper1708.pdf).    
 * "Genre in Classical Persian Poetry." In [*Routledge Handbook of Ancient, Classical and Late Classical Persian Literature*](https://www.routledge.com/Routledge-Handbook-of-Ancient-Classical-and-Late-Classical-Persian-Literature/Talattof/p/book/9781032455242?srsltid=AfmBOopUsiP1nZ9iy4bffBlN7rH96FPDEiGGwqb5qhM38Yj04haH6-8s), edited by Kamran Talattof, 77-104. New York: Routledge, 2023.    
@@ -75,32 +81,18 @@ https://doi.org/10.1017/S0020743817000964](
 https://doi.org/10.1017/S0020743817000964).          
 * (with Sarah Bowen Savant). "'Tell Me Something I Don’t Know!': The Place and Politics of Digital Methods in the (Islamicate) Humanities." *International Journal of Middle East Studies* 50 (2017): 135-139. doi: [
 https://doi.org/10.1017/S0020743817001027](
-https://doi.org/10.1017/S0020743817001027).  
+https://doi.org/10.1017/S0020743817001027).     
 
-## Works in Progress
+# Public Intellectual Writing
 
-* *Æffecting the Order of the World: Poetry and the Affective Economy of the Premodern Persianate* (second book manuscript, in progress).   
-* (with Cameron Cross). *Reading Classical Persian: A Comprehensive High-Frequency Introduction to Classical Persian*. Book manuscript in preparation.    
-* "In the Winehouse with Our Fellow Rascals": The Poetics, Textual Transmission, and Reception of Fakhr al-Din ʿIraqi's Cupbearer Ode (*Sāqī-Nāmah*) (Book chapter in preparation for *Medieval and Early Modern Persian Poetry: Welcoming New Directions and Forgotten Geographies*).                         
+* "Sufi love poetry is in vogue, but few grasp its radical meaning." *Aeon Psyche*, October 13th, 2021. url: [https://psyche.co/ideas/sufi-love-poetry-is-in-vogue-but-few-grasp-its-radical-meaning](https://psyche.co/ideas/sufi-love-poetry-is-in-vogue-but-few-grasp-its-radical-meaning)     
+* “[The Kite Runner Critiqued: New Orientalism Goes to the Big Screen](http://www.commondreams.org/views/2008/01/05/kite-runner-critiqued-new-orientalism-goes-big-screen).” *CommonDreams* (Jan 2008). Available for download [here](http://dx.doi.org/10.17613/M6Q524). Translated into Persian: “Ravâyati neo-orientâlisti az khâvarmiyâneh: naqdi digar bar ‘Bâdbâdak-bâz’.” Jahân-e Ketâb sâl-e sizdahom, shomâreh-ye 3 va 4 (Khordâd va Tir 1387). Translated by Ahmad Sayf. Available [here](http://dx.doi.org/10.17613/M6KF99).     
 
-## Public Scholarship
+# Teaching Experience
 
-* "OpenITI and Digital Philology in South Asia." *OpenITI Blog*, forthcoming.   
-* "Sufi love poetry is in vogue, but few grasp its radical meaning." *Aeon Psyche*, October 13th, 2021. url: [https://psyche.co/ideas/sufi-love-poetry-is-in-vogue-but-few-grasp-its-radical-meaning](https://psyche.co/ideas/sufi-love-poetry-is-in-vogue-but-few-grasp-its-radical-meaning).     
-* [The Kite Runner Critiqued: New Orientalism Goes to the Big Screen](http://www.commondreams.org/views/2008/01/05/kite-runner-critiqued-new-orientalism-goes-big-screen).” *CommonDreams* (Jan 2008). Available for download [here](http://dx.doi.org/10.17613/M6Q524). Translated into Persian: “Ravâyati neo-orientâlisti az khâvarmiyâneh: naqdi digar bar ‘Bâdbâdak-bâz’.” Jahân-e Ketâb sâl-e sizdahom, shomâreh-ye 3 va 4 (Khordâd va Tir 1387). Translated by Ahmad Sayf. Available here:http://dx.doi.org/10.17613/M6KF99. 
-
-## Areas of Teaching and Reserarch Interests
-
-**Primary Areas of Interest:** Sufism; Persian literature of all periods; (global) digital humanities; Modern Iranian history; Iranian cinema; literature of revolutionary movements in the Middle East; Orientalism; literary and cultural theory (especially, gender & sexuality studies, affect theory, history of emotions, sensory history, cognitive literary theory, and translation studies)   
-
-**Secondary Areas of Interest:** Arabic literature of all periods; contemporary Islamic political thought
-
-## Teaching Experience
-
-* Instructor, *Modern Iran* (Spring 2026)
+* Instructor, *Modern Iran* (Spring 2026)   
 * Instructor, *Sufism: History, Literature, and Politics of Islamic Mysticism* (Fall 2024)   
 * Instructor, *Introduction to Persian Literature in Translation* (Spring 2015, Fall 2017, Spring 2025)   
-* Instructor, *How to Hope: Islamic Utopian and Revolutionary Literature* (Fall 2025)    
 * Instructor, *Sex, Gender, and Sexuality in the Islamic World* (Spring 2017, Fall 2018, Fall 2022, Spring 2024, Fall 2025)      
 * Instructor, *Iranian Cinema* (Fall 2019, Fall 2020)       
 * Instructor, *Lyrics of Mystical Love: Rumi, Song of Songs, and St. Teresa of Avila to Mirabai and Manhae* (Spring 2019, 2014)       
@@ -108,25 +100,15 @@ https://doi.org/10.1017/S0020743817001027).
 * Instructor, *The Islamicate World 2.0: Studying Islamic Cultures through Computational Textual Analysis* (Fall 2016, Spring 2021).    
 * Instructor, *Introduction to Global Digital Humanities* (Spring 2016)    
 * Instructor, *Lyrics of Mystical Love, East and West* (Fall 2014)   
-* Instructor, *Words and Worlds: A Critical Literacy Approach to Reading and Writing* (4/2014-7/2014)   
+* Instructor, *Words and Worlds: A Critical Literacy Approach to Reading and Writing* (4/2014-7/2014)      
 
-## Service to University
+# Service to Profession		
 
-* Founding Member, University of Maryland Chapter of American Association of University Professors (UMD AAUP), now United Academics of Maryland—University of Maryland (Spring 2021-now)     
-* Member, UMD IT Council - Research Technologies Working Group, 2024-now.    
-* Member, Race, Equity, and Social Justice Committee, School of Languages, Literatures, and Cultures (Fall 2020—Spring 2021)      
-* Member, Search Committee for "Roshan Lecturer in Persian Studies" (Spring 2020)     
-* Director, Afghan Refugee Accompaniment Program (Fall 2017-Spring 2020)      
-* Member, University-wide Super Computing Committee (Fall 2017-Spring 2018)       
-* Member, advisory board for the joint College of Arts and Humanities/Maryland Institute for Technology and Humanities [Graduate Certificate in Digital Studies in the Arts and Humanities (DSAH)](http://dsah.umd.edu/) (2016-Now)     
-* Member, Roshan Institute Scholarships Review Committee (2016-Now)       
-* Member, Global Classrooms Evaluation Committee (2017)
-
-## Service to Profession		
-
+* Peer Reviewer for *Iranian Studies*    
 * Member, [Alpheios](https://alpheios.net/) Advisory Board        
 * Member, Board of Islamicate Digital Humanities Network     
 * Member, [vHMML](https://www.vhmml.org/) Board of Advisors, Hill Museum and Manuscript Library (HMML)
 * Former Member, [ALTO (Analyzed Layout and Text Object)](https://www.loc.gov/standards/alto/) International Editorial Board for OCR standards          
 * Served on two National Endowment for the Humanities grant review panels     
-* Institutional Trustee, Board of Trustees, American Institute of Afghanistan Studies (AIAS)  
+* Institutional Trustee, Board of Trustees, American Institute of Afghanistan Studies (AIAS)         
+     
